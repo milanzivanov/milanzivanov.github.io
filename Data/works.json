@@ -43,8 +43,8 @@
         "id": 6
       },
       {
-        "title": "Carreer day",
-        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/grafic-design/4_3sTR4Tbrs.webp?updatedAt=1637268262014",
+        "title": "Old personal site",
+        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/app-images/Milanz_WXnCQDxKZ.webp?updatedAt=1637268254841",
         "body": "lorem ipsum text 7...",
         "author": "Milan",
         "id": 7
@@ -62,6 +62,14 @@
         "body": "lorem ipsum text 9...",
         "author": "Milan",
         "id": 9
+      },
+      {
+        "title": "Hacker news",
+        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/app-images/HnNg5V2_rpPRqWUeo.webp?updatedAt=1637268254598",
+        "body": "lorem ipsum text 10...",
+        "author": "Milan",
+        "id": 10
       }
+       
     ]
   }
