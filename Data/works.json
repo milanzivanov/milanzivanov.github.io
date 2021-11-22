@@ -1,5 +1,9 @@
 {
-    "works": [
+  "titleName" : "Web portfolio",
+  "homeTown" : "Novi Knezevac",
+  "base" : "frontend",
+  "active" : true,
+   "works": [
       {
         "title": "Hotel Conection",
         "src": "https://ik.imagekit.io/milanz/milanzivanov_com/grafic-design/5_di4gBUPDBK.webp?updatedAt=1637268262184",
