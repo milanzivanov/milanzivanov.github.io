@@ -5,8 +5,8 @@
   "active" : true,
    "works": [
       {
-        "title": "Test laptop project",
-        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/project-mockup-laptop--test_3OznNtymC.jpg?updatedAt=1637672536618",
+        "title": "TDI Mobil",
+        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/tdiMobile_Sm_iYVdS-.jpg?updatedAt=1637703508121",
         "body": "lorem ipsum text 1...",
         "author": "Milan",
         "id": 1
@@ -19,16 +19,16 @@
         "id": 2
       },
       {
-        "title": "Tde Mobil",
-        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/grafic-design/14_NOfX4OpEK.webp?updatedAt=1637268260334",
-        "body": "lorem ipsum text 2...",
+        "title": "Old personal site 2020",
+        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/oldPersonalSite2020_6fDM0D-vM.jpg?updatedAt=1637703502544",
+        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
         "author": "Milan",
         "id": 3
       },
       {
         "title": "Aphillyated",
-        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/grafic-design/3_cc0HKEDLRL.webp?updatedAt=1637268261235",
-        "body": "lorem ipsum text 3...",
+        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/project-mockup-laptop--test_3OznNtymC.jpg?updatedAt=1637672536618",
+        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
         "author": "Milan",
         "id": 4
       },
