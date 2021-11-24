@@ -27,59 +27,17 @@
       },
       {
         "title": "Aphillyated",
-        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/project-mockup-laptop--test_3OznNtymC.jpg?updatedAt=1637672536618",
+        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/aphillzated_9oC1vdm74.jpg?updatedAt=1637753644896",
         "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
         "author": "Milan",
         "id": 4
       },
       {
-        "title": "SUMF",
-        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/grafic-design/13_aHIkOjRpBH.jpg?updatedAt=1637268259824",
-        "body": "lorem ipsum text 4...",
+        "title": "Weather App",
+        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/gtw2_3PBNJVrdUD2.jpg?updatedAt=1637753644797",
+        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
         "author": "Milan",
         "id": 5
-      },
-      {
-        "title": "Career day",
-        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/grafic-design/4_3sTR4Tbrs.webp?updatedAt=1637268262014",
-        "body": "lorem ipsum text 5...",
-        "author": "Milan",
-        "id": 6
-      },
-      {
-        "title": "DRG Proizvodnja",
-        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/app-images/drg4_VW88M2nfb.webp?updatedAt=1637268281842",
-        "body": "lorem ipsum text 6...",
-        "author": "Milan",
-        "id": 7
-      },
-      {
-        "title": "Old personal site",
-        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/app-images/Milanz_WXnCQDxKZ.webp?updatedAt=1637268254841",
-        "body": "lorem ipsum text 7...",
-        "author": "Milan",
-        "id": 8
-      },
-      {
-        "title": "Old portfolio",
-        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/app-images/Milanz_63qtUkrfV.png?updatedAt=1637268255135",
-        "body": "lorem ipsum text 8...",
-        "author": "Milan",
-        "id": 9
-      },
-      {
-        "title": "Weather app",
-        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/app-images/Gtw2_rZBdQIGS5.webp?updatedAt=1637268253808",
-        "body": "lorem ipsum text 9...",
-        "author": "Milan",
-        "id": 10
-      },
-      {
-        "title": "Hacker news",
-        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/app-images/HnNg5V2_rpPRqWUeo.webp?updatedAt=1637268254598",
-        "body": "lorem ipsum text 10...",
-        "author": "Milan",
-        "id": 11
       }
        
     ]
