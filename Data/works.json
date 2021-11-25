@@ -6,35 +6,40 @@
    "works": [
       {
         "title": "TDI Mobil",
-        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/tdiMobile_Sm_iYVdS-.jpg?updatedAt=1637703508121",
-        "body": "lorem ipsum text 1...",
+        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/tdiMobile_Sm_iYVdS-.jpg",
+        "linkSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/tdiMobile_Sm_iYVdS-.jpg",
+        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti incidunt suscipit dolore, explicabo odio repudiandae eligendi rem assumenda, asperiores cum sequi esse molestiae fugiat ratione quidem. Tempore eum accusantium reprehenderit.",
         "author": "Milan",
         "id": 1
       },
       {
-        "title": "DrG Proizvodnja",
-        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/drg-proizvodnja_-I7gd30g6.jpg?updatedAt=1637677483222",
+        "title": "DRG Production",
+        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/drg-proizvodnja_-I7gd30g6.jpg",
+        "linkSrc": "http://drg4.surge.sh/",
         "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti incidunt suscipit dolore, explicabo odio repudiandae eligendi rem assumenda, asperiores cum sequi esse molestiae fugiat ratione quidem. Tempore eum accusantium reprehenderit.",
         "author": "Milan",
         "id": 2
       },
       {
-        "title": "Old personal site 2020",
-        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/oldPersonalSite2020_6fDM0D-vM.jpg?updatedAt=1637703502544",
+        "title": "Personal site 2020",
+        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/oldPersonalSite2020_6fDM0D-vM.jpg",
+        "linkSrc": "http://milanzivanov.com/",
         "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
         "author": "Milan",
         "id": 3
       },
       {
         "title": "Aphillyated",
-        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/aphillzated_9oC1vdm74.jpg?updatedAt=1637753644896",
+        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/aphillzated_9oC1vdm74.jpg",
+        "linkSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/aphillzated_9oC1vdm74.jpg",
         "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
         "author": "Milan",
         "id": 4
       },
       {
         "title": "Weather App",
-        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/gtw2_3PBNJVrdUD2.jpg?updatedAt=1637753644797",
+        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/gtw2_3PBNJVrdUD2.jpg",
+        "linkSrc": "http://hideous-news.surge.sh/",
         "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
         "author": "Milan",
         "id": 5
