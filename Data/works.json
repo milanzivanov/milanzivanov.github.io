@@ -10,7 +10,10 @@
         "linkSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/webp/tdiMobil_IlaD69bVX.webp",
         "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti incidunt suscipit dolore, explicabo odio repudiandae eligendi rem assumenda, asperiores cum sequi esse molestiae fugiat ratione quidem. Tempore eum accusantium reprehenderit.",
         "author": "Milan",
-        "id": 1
+        "id": 1,
+        "technologiesUsed" : [
+          "Illustrator"
+        ]
       },
       {
         "title": "DRG Production",
@@ -18,7 +21,13 @@
         "linkSrc": "http://drg4.surge.sh/",
         "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti incidunt suscipit dolore, explicabo odio repudiandae eligendi rem assumenda, asperiores cum sequi esse molestiae fugiat ratione quidem. Tempore eum accusantium reprehenderit.",
         "author": "Milan",
-        "id": 2
+        "id": 2,
+        "technologiesUsed" : [
+          "Illustrator",
+          "html5/css3",
+          "RWD",
+          "jQuery"
+        ]
       },
       {
         "title": "Personal site 2020",
@@ -26,7 +35,14 @@
         "linkSrc": "http://milanzivanov.com/",
         "body": "My personal site that I made in 2019. Tehnologies that I used is THML5 css3 js...",
         "author": "Milan",
-        "id": 3
+        "id": 3,
+        "technologiesUsed" : [
+          "Illustrator",
+          "html5/css3",
+          "RWD",
+          "jQuery",
+          "javascript"
+        ]
       },
       {
         "title": "Aphillyated",
@@ -34,7 +50,10 @@
         "linkSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/webp/apjillyated_y1_nln72t.webp",
         "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
         "author": "Milan",
-        "id": 4
+        "id": 4,
+        "technologiesUsed" : [
+          "Illustrator"
+        ]
       },
       {
         "title": "Weather App",
@@ -42,7 +61,11 @@
         "linkSrc": "http://hideous-news.surge.sh/",
         "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
         "author": "Milan",
-        "id": 5
+        "id": 5,
+        "technologiesUsed" : [
+          "html5/css3",
+          "angular"
+        ]
       },
       {
         "title": "Hotel Conections",
@@ -50,7 +73,10 @@
         "linkSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/webp/hotelConections_Tx__CG1X9X.webp",
         "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
         "author": "Milan",
-        "id": 6
+        "id": 6,
+        "technologiesUsed" : [
+          "Illustrator"
+        ]
       },
       {
         "title": "Logo Logo",
@@ -58,7 +84,14 @@
         "linkSrc": "http://axiomq-test2021.surge.sh/",
         "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
         "author": "Milan",
-        "id": 7
+        "id": 7,
+        "technologiesUsed" : [
+          "Illustrator",
+          "html5/css3",
+          "RWD",
+          "jQuery",
+          "javascript"
+        ]
       }
        
     ]
