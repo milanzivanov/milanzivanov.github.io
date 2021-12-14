@@ -8,7 +8,7 @@
         "title": "TDI Mobil",
         "src": "https://ik.imagekit.io/milanz/milanzivanov_com/webp/tdiMobil_IlaD69bVX.webp",
         "linkSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/webp/tdiMobil_IlaD69bVX.webp",
-        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti incidunt suscipit dolore, explicabo odio repudiandae eligendi rem assumenda, asperiores cum sequi esse molestiae fugiat ratione quidem. Tempore eum accusantium reprehenderit.",
+        "body": "TdeMobil logo I made for mobile shop with the same name. Adobe Illustrator is used for designing this logotip.",
         "author": "Milan",
         "id": 1,
         "technologiesUsed" : [
@@ -19,7 +19,7 @@
         "title": "DRG Production",
         "src": "https://ik.imagekit.io/milanz/milanzivanov_com/webp/drgProizvodnja_iMgLAxft1.webp",
         "linkSrc": "http://drg4.surge.sh/",
-        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti incidunt suscipit dolore, explicabo odio repudiandae eligendi rem assumenda, asperiores cum sequi esse molestiae fugiat ratione quidem. Tempore eum accusantium reprehenderit.",
+        "body": "Drg Proizvodnja is website for little manufacturer. For this website I used html5/css3, jQuery, RWD.",
         "author": "Milan",
         "id": 2,
         "technologiesUsed" : [
@@ -33,7 +33,7 @@
         "title": "Personal site 2020",
         "src": "https://ik.imagekit.io/milanz/milanzivanov_com/webp/milanzivanov__qk3-gsHy.webp",
         "linkSrc": "http://milanzivanov.com/",
-        "body": "My personal site that I made in 2019. Tehnologies that I used is THML5 css3 js...",
+        "body": "My personal site that I made in 2019. Tehnologies that I used is HTML5/css3, RWD, Illustrator, jQuery",
         "author": "Milan",
         "id": 3,
         "technologiesUsed" : [
@@ -48,7 +48,7 @@
         "title": "Aphillyated",
         "src": "https://ik.imagekit.io/milanz/milanzivanov_com/webp/apjillyated_y1_nln72t.webp",
         "linkSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/webp/apjillyated_y1_nln72t.webp",
-        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "body": "Aphillyated is logotip that I made for compatition. I did this in Adobe Illustrator.",
         "author": "Milan",
         "id": 4,
         "technologiesUsed" : [
@@ -59,7 +59,7 @@
         "title": "Weather App",
         "src": "https://ik.imagekit.io/milanz/milanzivanov_com/webp/gtw2_Vxp44FtsUP.webp",
         "linkSrc": "http://hideous-news.surge.sh/",
-        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "body": "Weather app is task that I did for Execome. Technology used is Angular.",
         "author": "Milan",
         "id": 5,
         "technologiesUsed" : [
@@ -71,7 +71,7 @@
         "title": "Hotel Conections",
         "src": "https://ik.imagekit.io/milanz/milanzivanov_com/webp/hotelConections_Tx__CG1X9X.webp",
         "linkSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/webp/hotelConections_Tx__CG1X9X.webp",
-        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "body": "Hotel Conections is logotip that I made for compatition. I did this in Adobe Illustrator.",
         "author": "Milan",
         "id": 6,
         "technologiesUsed" : [
@@ -82,7 +82,7 @@
         "title": "Logo Logo",
         "src": "https://ik.imagekit.io/milanz/milanzivanov_com/webp/logoLogo_Sd83ydALo.webp",
         "linkSrc": "http://axiomq-test2021.surge.sh/",
-        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "body": "Logo Logo is task that I did for AxiomQ. Technology used is HTML5/CSS3, RWD, jQuery.",
         "author": "Milan",
         "id": 7,
         "technologiesUsed" : [
@@ -93,6 +93,5 @@
           "javascript"
         ]
       }
-       
     ]
   }
