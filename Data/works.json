@@ -32,7 +32,7 @@
       {
         "title": "Personal site 2020",
         "src": "https://ik.imagekit.io/milanz/milanzivanov_com/webp/milanzivanov__qk3-gsHy.webp?tr=w-980,h-568",
-        "linkSrc": "http://milanzivanov.com/",
+        "linkSrc": "https://milanzivanovold.surge.sh/",
         "body": "My personal site that I made in 2020. Tehnologies that I used is HTML5/css3, RWD, Illustrator, jQuery, js",
         "author": "Milan",
         "id": 3,
@@ -91,6 +91,18 @@
           "RWD",
           "jQuery",
           "javascript"
+        ]
+      },
+      {
+        "title": "Hacker News",
+        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/webp/hnapp_M1kkFMCsa.webp?tr=w-980,h-568",
+        "linkSrc": "http://hnclone2019.surge.sh/",
+        "body": "Hacker news clone is app that I made for Execome company, entry task. Technology used for making this is Angular, Flexbox, Html5/css3.",
+        "author": "Milan",
+        "id": 7,
+        "technologiesUsed" : [
+          "Angular",
+          "html5/css3"
         ]
       }
     ]
