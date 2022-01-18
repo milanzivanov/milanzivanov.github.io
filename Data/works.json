@@ -19,7 +19,7 @@
         ]
       },
       {
-        "title": "DRG Production",
+        "title": "DRG Manufacturer",
         "src": "https://ik.imagekit.io/milanz/milanzivanov_com/webp/drgProizvodnja_HNxQqnReYvr.webp",
         "srcMobile": "https://ik.imagekit.io/milanz/milanzivanov_com/webp/drgProizvodnja_HNxQqnReYvr.webp?tr=w-375,h-217",
         "srcDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/webp/drgProizvodnja_HNxQqnReYvr.webp?tr=w-778,h-451",
@@ -42,7 +42,7 @@
         "srcDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/webp/milanzivanov-old-site_dvpHn8tK5xr.webp?tr=w-778,h-451",
         "srcLargeDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/webp/milanzivanov-old-site_dvpHn8tK5xr.webp?tr=w-980,h-568",
         "linkSrc": "https://milanzivanovold.surge.sh/",
-        "body": "My personal site that I made in 2020. Tehnologies that I used is HTML5/css3, RWD, Illustrator, jQuery, js",
+        "body": "My old personal site that I made in 2020. Tehnologies that I used is HTML5/css3, RWD, Illustrator, jQuery, js.",
         "author": "Milan",
         "id": 3,
         "technologiesUsed" : [
