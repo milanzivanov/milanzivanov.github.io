@@ -42,7 +42,7 @@
         "srcDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/milanyivanov-old-website_-TxhwUSap.webp?tr=w-778,h-451",
         "srcLargeDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/milanyivanov-old-website_-TxhwUSap.webp?tr=w-980,h-568",
         "linkSrc": "https://milanzivanovold.surge.sh/",
-        "body": "My old personal site that I made in 2020. Tehnologies that I used is HTML5/css3, RWD, Illustrator, jQuery, js.",
+        "body": "My old personal site that I made in 2020. Tehnologies that I used are HTML5/css3, RWD, Illustrator, jQuery, js.",
         "author": "Milan",
         "id": 3,
         "technologiesUsed" : [
@@ -60,7 +60,7 @@
         "srcDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/apjillyated_y1_nln72t.webp?tr=w-778,h-451",
         "srcLargeDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/apjillyated_y1_nln72t.webp?tr=w-980,h-568",
         "linkSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/apjillyated_y1_nln72t.webp",
-        "body": "Aphillyated is logotip that I made for 99designs.com competition. Adobe Illustrator used for meking this.",
+        "body": "Aphillyated is a logotip that I made for 99designs.com competition. Adobe Illustrator used for making this.",
         "author": "Milan",
         "id": 4,
         "technologiesUsed" : [
@@ -69,12 +69,12 @@
       },
       {
         "title": "Weather App",
-        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/gtw2_Vxp44FtsUP.webp",
-        "srcMobile": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/gtw2_Vxp44FtsUP.webp?tr=w-375,h-217",
-        "srcDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/gtw2_Vxp44FtsUP.webp?tr=w-778,h-451",
-        "srcLargeDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/gtw2_Vxp44FtsUP.webp?tr=w-980,h-568",
+        "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/Gtw2_1AKtDrCdL.webp",
+        "srcMobile": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/Gtw2_1AKtDrCdL.webp?tr=w-375,h-217",
+        "srcDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/Gtw2_1AKtDrCdL.webp?tr=w-778,h-451",
+        "srcLargeDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/Gtw2_1AKtDrCdL.webp?tr=w-980,h-568",
         "linkSrc": "http://hideous-news.surge.sh/",
-        "body": "Weather app is task that I did for Execome company. Technology used is Angular, Flexbox, Weather API.",
+        "body": "Weather app is a task that I did for Execome company. Technology used is Angular, Flexbox, Weather API.",
         "author": "Milan",
         "id": 5,
         "technologiesUsed" : [
@@ -103,7 +103,7 @@
         "srcDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/logoLogo_w30S2lSZAB.webp?tr=w-778,h-451",
         "srcLargeDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/logoLogo_w30S2lSZAB.webp?tr=w-980,h-568",
         "linkSrc": "http://axiomq-test2021.surge.sh/",
-        "body": "Logo Logo is website that I did for AxiomQ. Technology used for making this is HTML5/CSS3, RWD, jQuery, Slick.js.",
+        "body": "Logo Logo is a website that I did for AxiomQ. Technology used for making this is HTML5/CSS3, RWD, jQuery, Slick.js.",
         "author": "Milan",
         "id": 7,
         "technologiesUsed" : [
@@ -121,7 +121,7 @@
         "srcDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/hn-clone2_KhnFpsRrA.webp?tr=w-778,h-451",
         "srcLargeDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/hn-clone2_KhnFpsRrA.webp?tr=w-980,h-568",
         "linkSrc": "http://hnclone2019.surge.sh/",
-        "body": "Hacker news clone is app that I made for Execome company, entry task. Technology used for making this is Angular, Flexbox, Html5/css3.",
+        "body": "Hacker news clone is an app that I made for Execome company, entry task. Technology used for making this is Angular, Flexbox, Html5/css3.",
         "author": "Milan",
         "id": 7,
         "technologiesUsed" : [
