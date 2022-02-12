@@ -5,39 +5,39 @@
   "active": true,
   "skills": [
     {
-      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/adobe-illustrator_m2t4Ys1baQG.svg",
+      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/adobe-illustrator_m2t4Ys1baQG.svg?tr=w-100,h-100",
       "iconTitle": "Illustrator"
     },
     {
-      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/html-5_YwOzO4fd8.svg",
+      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/html-5_YwOzO4fd8.svg?tr=w-100,h-100",
       "iconTitle": "html5"
     },
     {
-      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/css3_199V7PjHI.svg",
+      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/css3_199V7PjHI.svg?tr=w-100,h-100",
       "iconTitle": "css3"
     },
     {
-      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/responsive-design-64_ge-pWXmCi.png",
-      "iconTitle": "Responsive Web Design"
+      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/icon-tablet-phone-and-browser_UaxgsOmrb.svg?tr=w-100,h-100",
+      "iconTitle": "Rwd"
     },
     {
-      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/jquery_iVwYttW7rhj.svg",
+      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/jquery_iVwYttW7rhj.svg?tr=w-100,h-100",
       "iconTitle": "jQuery"
     },
     {
-      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/javascript_aKhBX3j8Q.svg",
+      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/javascript_aKhBX3j8Q.svg?tr=w-100,h-100",
       "iconTitle": "javascript"
     },
     {
-      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/sass-avatar_xuXGzZ68U.svg",
+      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/sass-avatar_xuXGzZ68U.svg?tr=w-100,h-100",
       "iconTitle": "scss..."
     },
     {
-      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/github_s142PX6eMs.svg",
+      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/github_s142PX6eMs.svg?tr=w-100,h-100",
       "iconTitle": "GitHub"
     },
     {
-      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/figma_c34Gv-SqW.svg",
+      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/figma_c34Gv-SqW.svg?tr=w-100,h-100",
       "iconTitle": "Figma"
     }
   ],
