@@ -4,12 +4,30 @@
   "base": "frontend",
   "active": true,
   "skills": [
-    "Illustrator",
-    "html5/css3",
-    "RWD",
-    "jQuery",
-    "javascript",
-    "scss..."
+    {
+      "iconSrc": "Illustrator",
+      "iconTitle": "Illustrator"
+    },
+    {
+      "iconSrc": "html5/css3",
+      "iconTitle": "html5/css3"
+    },
+    {
+      "iconSrc": "RWD",
+      "iconTitle": "Responsive Web Design"
+    },
+    {
+      "iconSrc": "jQuery",
+      "iconTitle": "jQuery"
+    },
+    {
+      "iconSrc": "javascript",
+      "iconTitle": "javascript"
+    },
+    {
+      "iconSrc": "scss...",
+      "iconTitle": "scss..."
+    }
   ],
    "works": [
       {
