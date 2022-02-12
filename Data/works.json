@@ -1,8 +1,16 @@
 {
-  "titleName" : "Web portfolio",
-  "homeTown" : "Novi Knezevac",
-  "base" : "frontend",
-  "active" : true,
+  "titleName": "Web portfolio",
+  "homeTown": "Novi Knezevac",
+  "base": "frontend",
+  "active": true,
+  "skills": [
+    "Illustrator",
+    "html5/css3",
+    "RWD",
+    "jQuery",
+    "javascript",
+    "scss..."
+  ],
    "works": [
       {
         "title": "Tde Mobil",
@@ -28,7 +36,7 @@
         "body": "Drg Proizvodnja is website for small manufacturer. For this website I used html5/css3, jQuery, RWD, js, cssGrid, flexbox, magnific-popup.js.",
         "author": "Milan",
         "id": 2,
-        "technologiesUsed" : [
+        "technologiesUsed": [
           "Illustrator",
           "html5/css3",
           "RWD",
