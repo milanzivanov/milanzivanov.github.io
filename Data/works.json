@@ -39,10 +39,6 @@
     {
       "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/figma_c34Gv-SqW.svg",
       "iconTitle": "Figma"
-    },
-    {
-      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/icon-w3c_j_sb-H5Yv.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1644691044948",
-      "iconTitle": "W3c"
     }
   ],
    "works": [
@@ -53,7 +49,7 @@
         "srcDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/tdiMobil_IlaD69bVX.webp?tr=w-778,h-451",
         "srcLargeDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/tdiMobil_IlaD69bVX.webp?tr=w-980,h-568",
         "linkSrc": "http://tdemobil.com/",
-        "body": "TdeMobil logo I made for mobile shop with the same name. Adobe Illustrator is used for designing this logotip.",
+        "body": "TdeMobil logo I made for mobile shop with the same name. Time spent on this project is seven days.",
         "author": "Milan",
         "id": 1,
         "technologiesUsed" : [
@@ -72,7 +68,7 @@
         "srcDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/drgProizvodnja_HNxQqnReYvr.webp?tr=w-778,h-451",
         "srcLargeDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/drgProizvodnja_HNxQqnReYvr.webp?tr=w-980,h-568",
         "linkSrc": "http://drg4.surge.sh/",
-        "body": "Drg Proizvodnja is website for small manufacturer. For this website I used html5/css3, jQuery, RWD, js, cssGrid, flexbox, magnific-popup.js.",
+        "body": "Drg Proizvodnja is website for small manufacturer. Time spent on this project is one month.",
         "author": "Milan",
         "id": 2,
         "technologiesUsed": [
@@ -87,7 +83,7 @@
             "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/css3_199V7PjHI.svg"
           },
           {
-            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/icon-tablet-phone-and-browser_UaxgsOmrb.svg"
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/responsive-design-64_ge-pWXmCi.png"
           },
           {
             "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/jquery_iVwYttW7rhj.svg"
@@ -99,13 +95,13 @@
         ]
       },
       {
-        "title": "Personal site 2020",
+        "title": "Personal site 2019",
         "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/old-personal-site-2019_hTentm-n-rk.webp",
         "srcMobile": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/old-personal-site-2019_hTentm-n-rk.webp?tr=w-375,h-217",
         "srcDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/old-personal-site-2019_hTentm-n-rk.webp?tr=w-778,h-451",
         "srcLargeDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/old-personal-site-2019_hTentm-n-rk.webp?tr=w-980,h-568",
         "linkSrc": "https://milanzivanovold.surge.sh/",
-        "body": "My old personal site that I made in 2020. Tehnologies that I used are HTML5/css3, RWD, Illustrator, jQuery, js.",
+        "body": "My old personal site that I made in 2019. Time spent on this project is one month.",
         "author": "Milan",
         "id": 3,
         "technologiesUsed": [
@@ -120,7 +116,7 @@
             "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/css3_199V7PjHI.svg"
           },
           {
-            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/icon-tablet-phone-and-browser_UaxgsOmrb.svg"
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/responsive-design-64_ge-pWXmCi.png"
           },
           {
             "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/jquery_iVwYttW7rhj.svg"
@@ -138,7 +134,7 @@
         "srcDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/apjillyated_y1_nln72t.webp?tr=w-778,h-451",
         "srcLargeDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/apjillyated_y1_nln72t.webp?tr=w-980,h-568",
         "linkSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/apjillyated_y1_nln72t.webp",
-        "body": "Aphillyated is a logotip that I made for 99designs.com competition. Adobe Illustrator used for making this.",
+        "body": "Aphillyated is a logotip that I made for 99designs.com competition. Time spent on this project is seven days.",
         "author": "Milan",
         "id": 4,
         "technologiesUsed": [
@@ -157,7 +153,7 @@
         "srcDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/gtw2_xEtfs_Isc.webp?tr=w-778,h-451",
         "srcLargeDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/gtw2_xEtfs_Isc.webp?tr=w-980,h-568",
         "linkSrc": "http://hideous-news.surge.sh/",
-        "body": "Weather app is a task that I did for Execome company. Technology used is Angular, Flexbox, Weather API.",
+        "body": "Weather app is a task that I did for Execome company. Time spent on this project is seven days.",
         "author": "Milan",
         "id": 5,
         "technologiesUsed": [
@@ -181,7 +177,7 @@
         "srcDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/hotelConections_Tx__CG1X9X.webp?tr=w-778,h-451",
         "srcLargeDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/hotelConections_Tx__CG1X9X.webp?tr=w-980,h-568",
         "linkSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/hotelConections_Tx__CG1X9X.webp",
-        "body": "Hotel Conections is logotip that I made for 99designs.com competition. I did this in Adobe Illustrator.",
+        "body": "Hotel Conections is logotip that I made for 99designs.com competition. Time spent on this project is five days.",
         "author": "Milan",
         "id": 6,
         "technologiesUsed": [
@@ -200,7 +196,7 @@
         "srcDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/logoLogo_w30S2lSZAB.webp?tr=w-778,h-451",
         "srcLargeDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/logoLogo_w30S2lSZAB.webp?tr=w-980,h-568",
         "linkSrc": "http://axiomq-test2021.surge.sh/",
-        "body": "Logo Logo is a website that I did for AxiomQ. Technology used for making this is HTML5/CSS3, RWD, jQuery, Slick.js.",
+        "body": "Logo Logo is a website that I did for AxiomQ. Time spent on this project is seven days.",
         "author": "Milan",
         "id": 7,
         "technologiesUsed": [
@@ -215,7 +211,7 @@
             "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/css3_199V7PjHI.svg"
           },
           {
-            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/icon-tablet-phone-and-browser_UaxgsOmrb.svg"
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/responsive-design-64_ge-pWXmCi.png"
           },
           {
             "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/jquery_iVwYttW7rhj.svg"
@@ -233,7 +229,7 @@
         "srcDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/hn-clone2_KhnFpsRrA.webp?tr=w-778,h-451",
         "srcLargeDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/hn-clone2_KhnFpsRrA.webp?tr=w-980,h-568",
         "linkSrc": "http://hnclone2019.surge.sh/",
-        "body": "Hacker news clone is an app that I made for Execome company, entry task. Technology used for making this is Angular, Flexbox, Html5/css3. Time spent on this project is seven days.",
+        "body": "Hacker news clone is an app that I made for Execome company, entry task. Time spent on this project is seven days.",
         "author": "Milan",
         "id": 7,
         "technologiesUsed" : [
