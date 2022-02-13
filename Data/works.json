@@ -1,8 +1,4 @@
 {
-  "titleName": "Web portfolio",
-  "homeTown": "Novi Knezevac",
-  "base": "frontend",
-  "active": true,
   "skills": [
     {
       "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/adobe-illustrator_m2t4Ys1baQG.svg",
@@ -39,6 +35,10 @@
     {
       "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/figma_c34Gv-SqW.svg",
       "iconTitle": "Figma"
+    },
+    {
+      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/icon-w3c_j_sb-H5Yv.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1644691044948",
+      "iconTitle": "RESTful APIs"
     }
   ],
    "works": [
@@ -55,7 +55,6 @@
         "technologiesUsed" : [
           {
             "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/html-5_YwOzO4fd8.svg"
-
           },
           {
             "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/adobe-illustrator_m2t4Ys1baQG.svg"
@@ -73,10 +72,26 @@
         "author": "Milan",
         "id": 2,
         "technologiesUsed": [
-          "Illustrator",
-          "html5/css3",
-          "RWD",
-          "jQuery"
+
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/html-5_YwOzO4fd8.svg"
+          },
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/adobe-illustrator_m2t4Ys1baQG.svg"
+          },
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/css3_199V7PjHI.svg"
+          },
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/icon-tablet-phone-and-browser_UaxgsOmrb.svg"
+          },
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/jquery_iVwYttW7rhj.svg"
+          },
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/sass-avatar_xuXGzZ68U.svg"
+          }
+
         ]
       },
       {
@@ -89,12 +104,27 @@
         "body": "My old personal site that I made in 2020. Tehnologies that I used are HTML5/css3, RWD, Illustrator, jQuery, js.",
         "author": "Milan",
         "id": 3,
-        "technologiesUsed" : [
-          "Illustrator",
-          "html5/css3",
-          "RWD",
-          "jQuery",
-          "javascript"
+        "technologiesUsed": [
+
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/html-5_YwOzO4fd8.svg"
+          },
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/adobe-illustrator_m2t4Ys1baQG.svg"
+          },
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/css3_199V7PjHI.svg"
+          },
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/icon-tablet-phone-and-browser_UaxgsOmrb.svg"
+          },
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/jquery_iVwYttW7rhj.svg"
+          },
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/sass-avatar_xuXGzZ68U.svg"
+          }
+
         ]
       },
       {
@@ -107,8 +137,10 @@
         "body": "Aphillyated is a logotip that I made for 99designs.com competition. Adobe Illustrator used for making this.",
         "author": "Milan",
         "id": 4,
-        "technologiesUsed" : [
-          "Illustrator"
+        "technologiesUsed": [
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/adobe-illustrator_m2t4Ys1baQG.svg"
+          }
         ]
       },
       {
@@ -121,9 +153,18 @@
         "body": "Weather app is a task that I did for Execome company. Technology used is Angular, Flexbox, Weather API.",
         "author": "Milan",
         "id": 5,
-        "technologiesUsed" : [
-          "html5/css3",
-          "angular"
+        "technologiesUsed": [
+
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/html-5_YwOzO4fd8.svg"
+          },
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/css3_199V7PjHI.svg"
+          },
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/icon-w3c_j_sb-H5Yv.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1644691044948"
+          }
+
         ]
       },
       {
@@ -136,8 +177,10 @@
         "body": "Hotel Conections is logotip that I made for 99designs.com competition. I did this in Adobe Illustrator.",
         "author": "Milan",
         "id": 6,
-        "technologiesUsed" : [
-          "Illustrator"
+        "technologiesUsed": [
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/adobe-illustrator_m2t4Ys1baQG.svg"
+          }
         ]
       },
       {
@@ -150,12 +193,27 @@
         "body": "Logo Logo is a website that I did for AxiomQ. Technology used for making this is HTML5/CSS3, RWD, jQuery, Slick.js.",
         "author": "Milan",
         "id": 7,
-        "technologiesUsed" : [
-          "Illustrator",
-          "html5/css3",
-          "RWD",
-          "jQuery",
-          "javascript"
+        "technologiesUsed": [
+
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/html-5_YwOzO4fd8.svg"
+          },
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/figma_c34Gv-SqW.svg"
+          },
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/css3_199V7PjHI.svg"
+          },
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/icon-tablet-phone-and-browser_UaxgsOmrb.svg"
+          },
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/jquery_iVwYttW7rhj.svg"
+          },
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/sass-avatar_xuXGzZ68U.svg"
+          }
+
         ]
       },
       {
@@ -169,8 +227,15 @@
         "author": "Milan",
         "id": 7,
         "technologiesUsed" : [
-          "Angular",
-          "html5/css3"
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/html-5_YwOzO4fd8.svg"
+          },
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/css3_199V7PjHI.svg"
+          },
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/icon-w3c_j_sb-H5Yv.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1644691044948"
+          }
         ]
       }
     ]
