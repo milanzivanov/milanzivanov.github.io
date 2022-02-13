@@ -5,6 +5,10 @@
       "iconTitle": "Illustrator"
     },
     {
+      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/adobe-photoshop_piZ7MD7d_.svg",
+      "iconTitle": "Photoshop"
+    },
+    {
       "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/html-5_YwOzO4fd8.svg",
       "iconTitle": "html5"
     },
@@ -13,7 +17,7 @@
       "iconTitle": "css3"
     },
     {
-      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/icon-tablet-phone-and-browser_UaxgsOmrb.svg",
+      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/responsive-design-64_ge-pWXmCi.png",
       "iconTitle": "Rwd"
     },
     {
@@ -38,7 +42,7 @@
     },
     {
       "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/icon-w3c_j_sb-H5Yv.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1644691044948",
-      "iconTitle": "RESTful APIs"
+      "iconTitle": "W3c"
     }
   ],
    "works": [
@@ -54,7 +58,7 @@
         "id": 1,
         "technologiesUsed" : [
           {
-            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/html-5_YwOzO4fd8.svg"
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/adobe-photoshop_piZ7MD7d_.svg"
           },
           {
             "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/adobe-illustrator_m2t4Ys1baQG.svg"
@@ -140,6 +144,9 @@
         "technologiesUsed": [
           {
             "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/adobe-illustrator_m2t4Ys1baQG.svg"
+          },
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/adobe-photoshop_piZ7MD7d_.svg"
           }
         ]
       },
@@ -162,7 +169,7 @@
             "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/css3_199V7PjHI.svg"
           },
           {
-            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/icon-w3c_j_sb-H5Yv.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1644691044948"
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/angular_2_VNHlbCk.svg"
           }
 
         ]
@@ -180,6 +187,9 @@
         "technologiesUsed": [
           {
             "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/adobe-illustrator_m2t4Ys1baQG.svg"
+          },
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/adobe-photoshop_piZ7MD7d_.svg"
           }
         ]
       },
@@ -223,7 +233,7 @@
         "srcDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/hn-clone2_KhnFpsRrA.webp?tr=w-778,h-451",
         "srcLargeDesktop": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/hn-clone2_KhnFpsRrA.webp?tr=w-980,h-568",
         "linkSrc": "http://hnclone2019.surge.sh/",
-        "body": "Hacker news clone is an app that I made for Execome company, entry task. Technology used for making this is Angular, Flexbox, Html5/css3.",
+        "body": "Hacker news clone is an app that I made for Execome company, entry task. Technology used for making this is Angular, Flexbox, Html5/css3. Time spent on this project is seven days.",
         "author": "Milan",
         "id": 7,
         "technologiesUsed" : [
@@ -234,7 +244,7 @@
             "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/css3_199V7PjHI.svg"
           },
           {
-            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/icon-w3c_j_sb-H5Yv.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1644691044948"
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/angular_2_VNHlbCk.svg"
           }
         ]
       }
