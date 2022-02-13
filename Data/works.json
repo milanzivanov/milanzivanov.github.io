@@ -53,9 +53,13 @@
         "author": "Milan",
         "id": 1,
         "technologiesUsed" : [
-          "Illustrator",
-          "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/html-5_YwOzO4fd8.svg",
-          "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/adobe-illustrator_m2t4Ys1baQG.svg"
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/html-5_YwOzO4fd8.svg"
+
+          },
+          {
+            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/adobe-illustrator_m2t4Ys1baQG.svg"
+          }
         ]
       },
       {
