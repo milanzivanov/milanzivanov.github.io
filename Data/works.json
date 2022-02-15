@@ -1,43 +1,55 @@
 {
   "skills": [
     {
-      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/adobe-illustrator_m2t4Ys1baQG.svg",
+      "iconClass": "devicon-illustrator-plain",
       "iconTitle": "Illustrator"
     },
     {
-      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/adobe-photoshop_piZ7MD7d_.svg",
+      "iconClass": "devicon-angularjs-plain",
+      "iconTitle": "angular"
+    },
+    {
+      "iconClass": "devicon-photoshop-plain",
       "iconTitle": "Photoshop"
     },
     {
-      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/html-5_YwOzO4fd8.svg",
+      "iconClass": "devicon-html5-plain",
       "iconTitle": "html5"
     },
     {
-      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/css3_199V7PjHI.svg",
+      "iconClass": "devicon-css3-plain",
       "iconTitle": "css3"
     },
     {
-      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/responsive-design-64_ge-pWXmCi.png",
-      "iconTitle": "Rwd"
+      "iconClass": "devicon-amazonwebservices-original",
+      "iconTitle": "AWS"
     },
     {
-      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/jquery_iVwYttW7rhj.svg",
+      "iconClass": "devicon-gulp-plain",
+      "iconTitle": "Gulp"
+    },
+    {
+      "iconClass": "devicon-vscode-plain",
+      "iconTitle": "vscode"
+    },
+    {
+      "iconClass": "devicon-jquery-plain",
       "iconTitle": "jQuery"
     },
     {
-      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/javascript_aKhBX3j8Q.svg",
+      "iconClass": "devicon-javascript-plain",
       "iconTitle": "javascript"
     },
     {
-      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/sass-avatar_xuXGzZ68U.svg",
-      "iconTitle": "scss"
+      "iconClass": "devicon-sass-original",
+      "iconTitle": "sass"
     },
     {
-      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/github_s142PX6eMs.svg",
+      "iconClass": "devicon-github-original",
       "iconTitle": "GitHub"
     },
     {
-      "iconSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/figma_c34Gv-SqW.svg",
+      "iconClass": "devicon-figma-plain",
       "iconTitle": "Figma"
     }
   ],
