@@ -68,10 +68,10 @@
         "id": 1,
         "technologiesUsed" : [
           {
-            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/adobe-photoshop_piZ7MD7d_.svg"
+            "svgIcon": "devicon-photoshop-plain"
           },
           {
-            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/adobe-illustrator_m2t4Ys1baQG.svg"
+            "svgIcon": "devicon-illustrator-plain"
           }
         ]
       },
@@ -90,22 +90,22 @@
         "technologiesUsed": [
 
           {
-            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/html-5_YwOzO4fd8.svg"
+            "svgIcon": "devicon-html5-plain"
           },
           {
-            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/adobe-illustrator_m2t4Ys1baQG.svg"
+            "svgIcon": "devicon-photoshop-plain"
           },
           {
-            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/css3_199V7PjHI.svg"
+            "svgIcon": "devicon-illustrator-plain"
           },
           {
-            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/responsive-design-64_ge-pWXmCi.png"
+            "svgIcon": "devicon-css3-plain"
           },
           {
-            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/jquery_iVwYttW7rhj.svg"
+            "svgIcon": "devicon-jquery-plain"
           },
           {
-            "svgIcon": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/skillIconsSvg/sass-avatar_xuXGzZ68U.svg"
+            "svgIcon": "devicon-sass-original"
           }
 
         ]
