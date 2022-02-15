@@ -137,6 +137,12 @@
             "svgIcon": "devicon-illustrator-plain"
           },
           {
+            "svgIcon": "devicon-github-plain"
+          },
+          {
+            "svgIcon": "devicon-amazonwebservices-original"
+          },
+          {
             "svgIcon": "devicon-jquery-plain"
           }
         ]
@@ -178,6 +184,9 @@
           },
           {
             "svgIcon": "devicon-illustrator-plain"
+          },
+          {
+            "svgIcon": "devicon-angularjs-plain"
           }
         ]
       },
@@ -214,10 +223,22 @@
         "id": 7,
         "technologiesUsed": [
           {
+            "svgIcon": "devicon-html5-plain"
+          },
+          {
+            "svgIcon": "devicon-css3-plain"
+          },
+          {
+            "svgIcon": "devicon-sass-original"
+          },
+          {
             "svgIcon": "devicon-photoshop-plain"
           },
           {
             "svgIcon": "devicon-illustrator-plain"
+          },
+          {
+            "svgIcon": "devicon-javascript-plain"
           }
         ]
       },
@@ -239,6 +260,9 @@
           },
           {
             "svgIcon": "devicon-illustrator-plain"
+          },
+          {
+            "svgIcon": "devicon-angularjs-plain"
           }
         ]
       }
