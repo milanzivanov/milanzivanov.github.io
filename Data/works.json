@@ -68,10 +68,10 @@
         "id": 1,
         "technologiesUsed" : [
           {
-            "svgIcon": "devicon-size-color devicon-photoshop-plain"
+            "svgIcon": "devicon-size-color&nbsp;devicon-photoshop-plain"
           },
           {
-            "svgIcon": "devicon-size-color devicon-illustrator-plain"
+            "svgIcon": "devicon-size-color&nbsp;devicon-illustrator-plain"
           }
         ]
       },
@@ -90,22 +90,22 @@
         "technologiesUsed": [
 
           {
-            "svgIcon": "devicon-size-color devicon-html5-plain"
+            "svgIcon": "devicon-size-color&nbsp;devicon-html5-plain"
           },
           {
-            "svgIcon": "devicon-size-color devicon-css3-plain"
+            "svgIcon": "devicon-size-color&nbsp;devicon-css3-plain"
           },
           {
-            "svgIcon": "devicon-size-color devicon-sass-original"
+            "svgIcon": "devicon-size-color&nbsp;devicon-sass-original"
           },
           {
-            "svgIcon": "devicon-size-color devicon-photoshop-plain"
+            "svgIcon": "devicon-size-color&nbsp;devicon-photoshop-plain"
           },
           {
-            "svgIcon": "devicon-size-color devicon-illustrator-plain"
+            "svgIcon": "devicon-size-color&nbsp;devicon-illustrator-plain"
           },
           {
-            "svgIcon": "devicon-size-color devicon-jquery-plain"
+            "svgIcon": "devicon-size-color&nbsp;devicon-jquery-plain"
           }
 
         ]
