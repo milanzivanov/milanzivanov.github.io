@@ -98,6 +98,9 @@
             "svgIcon": "devicon-sass-original"
           },
           {
+            "svgIcon": "devicon-gulp-plain"
+          },
+          {
             "svgIcon": "devicon-photoshop-plain"
           },
           {
@@ -129,6 +132,9 @@
           },
           {
             "svgIcon": "devicon-sass-original"
+          },
+          {
+            "svgIcon": "devicon-gulp-plain"
           },
           {
             "svgIcon": "devicon-photoshop-plain"
@@ -239,6 +245,9 @@
           },
           {
             "svgIcon": "devicon-javascript-plain"
+          },
+          {
+            "svgIcon": "devicon-gulp-plain"
           }
         ]
       },
