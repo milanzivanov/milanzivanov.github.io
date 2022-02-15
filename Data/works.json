@@ -5,12 +5,12 @@
       "iconTitle": "Illustrator"
     },
     {
-      "iconClass": "devicon-angularjs-plain",
-      "iconTitle": "angular"
-    },
-    {
       "iconClass": "devicon-photoshop-plain",
       "iconTitle": "Photoshop"
+    },
+    {
+      "iconClass": "devicon-figma-plain",
+      "iconTitle": "Figma"
     },
     {
       "iconClass": "devicon-html5-plain",
@@ -21,36 +21,32 @@
       "iconTitle": "css3"
     },
     {
-      "iconClass": "devicon-amazonwebservices-original",
-      "iconTitle": "AWS"
+      "iconClass": "devicon-sass-original",
+      "iconTitle": "sass"
     },
     {
       "iconClass": "devicon-gulp-plain",
       "iconTitle": "Gulp"
     },
     {
-      "iconClass": "devicon-vscode-plain",
-      "iconTitle": "vscode"
+      "iconClass": "devicon-javascript-plain",
+      "iconTitle": "javascript"
     },
     {
       "iconClass": "devicon-jquery-plain",
       "iconTitle": "jQuery"
     },
     {
-      "iconClass": "devicon-javascript-plain",
-      "iconTitle": "javascript"
+      "iconClass": "devicon-angularjs-plain",
+      "iconTitle": "angular"
     },
     {
-      "iconClass": "devicon-sass-original",
-      "iconTitle": "sass"
+      "iconClass": "devicon-amazonwebservices-original",
+      "iconTitle": "AWS"
     },
     {
       "iconClass": "devicon-github-original",
       "iconTitle": "GitHub"
-    },
-    {
-      "iconClass": "devicon-figma-plain",
-      "iconTitle": "Figma"
     }
   ],
    "works": [
