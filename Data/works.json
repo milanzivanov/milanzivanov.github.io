@@ -69,11 +69,11 @@
       ]
     },
     {
-      "title": "DRG Manufacturer",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/drgProizvodnja_HNxQqnReYvr.webp",
-      "linkSrc": "http://drg4.surge.sh/",
-      "body": "Drg Proizvodnja is website for small manufacturer.",
-      "projectTime": "Time spent on this project is one month.",
+      "title": "Astro portfolio",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/astro-portfolio_yZAHv5gTE.webp?updatedAt=1687159292492",
+      "linkSrc": "https://taraba-task-2023.netlify.app/",
+      "body": "Astro portfolio is small website that I did in practice pirpuse for astro ssg practice.",
+      "projectTime": "I still experiment with it.",
 
       "author": "Milan",
       "id": 2,
@@ -83,21 +83,6 @@
         },
         {
           "svgIcon": "devicon-css3-plain"
-        },
-        {
-          "svgIcon": "devicon-sass-original"
-        },
-        {
-          "svgIcon": "devicon-gulp-plain"
-        },
-        {
-          "svgIcon": "devicon-photoshop-plain"
-        },
-        {
-          "svgIcon": "devicon-illustrator-plain"
-        },
-        {
-          "svgIcon": "devicon-jquery-plain"
         }
       ]
     },
@@ -178,19 +163,22 @@
       ]
     },
     {
-      "title": "Hotel Conections",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/hotelConections_Tx__CG1X9X.webp",
-      "linkSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/hotelConections_Tx__CG1X9X.webp",
-      "body": "Hotel Conections is logotip that I made for 99designs.com competition.",
-      "projectTime": "Time spent on this project is five days.",
+      "title": "Bolt",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/starter_bolt_n5r9ZPmtM.webp?updatedAt=1687159292377",
+      "linkSrc": "https://taraba-task-2023.netlify.app/",
+      "body": "Bolt is a website that I did for Taraba. Entry task.",
+      "projectTime": "Time spent on this project is seven days.",
       "author": "Milan",
       "id": 6,
       "technologiesUsed": [
         {
-          "svgIcon": "devicon-photoshop-plain"
+          "svgIcon": "devicon-figma-plain"
         },
         {
-          "svgIcon": "devicon-illustrator-plain"
+          "svgIcon": "devicon-html5-plain"
+        },
+        {
+          "svgIcon": "devicon-css3-plain"
         }
       ]
     },
