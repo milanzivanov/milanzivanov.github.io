@@ -70,7 +70,7 @@
     },
     {
       "title": "Bolt",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/starter_bolt_n5r9ZPmtM.webp",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/starter_bolt_DwO78YO1U.webp",
       "linkSrc": "https://taraba-task-2023.netlify.app/",
       "body": "Bolt is a website I developed for Taraba company as an entry task, translating Figma designs into production-ready code efficiently and accurately.",
       "projectTime": "Time spent on this project is seven days.",
@@ -107,12 +107,11 @@
       ]
     },
     {
-      "title": "Personal site 2019",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/old-personal-site-2019_hTentm-n-rk.webp",
-      "linkSrc": "https://milanzivanovold.surge.sh/",
-      "body": "I designed and developed my personal website back in 2019, showcasing my skills and accomplishments at that time.",
-      "projectTime": "Time spent on this project is one month.",
-
+      "title": "Astro portfolio website",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/astro-aleks_cMDy_2Pj3.webp",
+      "linkSrc": "https://portfolio-in-astro.netlify.app/",
+      "body": "Astro portfolio is a small website that I did in practice purposes. Astro is an innovative static site generator that empowers developers to create stunning portfolios. With its flexible architecture, component-driven development, and optimized build process, Astro offers a seamless and efficient way to showcase your skills and creativity. It's the perfect tool for crafting impressive portfolio websites.",
+      "projectTime": "Time spent on this project is about one month.",
       "author": "Milan",
       "id": 4,
       "technologiesUsed": [
@@ -121,27 +120,6 @@
         },
         {
           "svgIcon": "devicon-css3-plain"
-        },
-        {
-          "svgIcon": "devicon-sass-original"
-        },
-        {
-          "svgIcon": "devicon-gulp-plain"
-        },
-        {
-          "svgIcon": "devicon-photoshop-plain"
-        },
-        {
-          "svgIcon": "devicon-illustrator-plain"
-        },
-        {
-          "svgIcon": "devicon-github-plain"
-        },
-        {
-          "svgIcon": "devicon-amazonwebservices-original"
-        },
-        {
-          "svgIcon": "devicon-jquery-plain"
         }
       ]
     },
