@@ -51,6 +51,44 @@
   ],
   "works": [
     {
+      "title": "Astro portfolio",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/astro-portfolio_yZAHv5gTE.webp",
+      "linkSrc": "https://taraba-task-2023.netlify.app/",
+      "body": "Astro portfolio is small website that I did in practice pirpuse for astro ssg practice.",
+      "projectTime": "I still experiment with it.",
+
+      "author": "Milan",
+      "id": 1,
+      "technologiesUsed": [
+        {
+          "svgIcon": "devicon-html5-plain"
+        },
+        {
+          "svgIcon": "devicon-css3-plain"
+        }
+      ]
+    },
+    {
+      "title": "Bolt",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/starter_bolt_n5r9ZPmtM.webp",
+      "linkSrc": "https://taraba-task-2023.netlify.app/",
+      "body": "Bolt is a website that I did for Taraba. Entry task.",
+      "projectTime": "Time spent on this project is seven days.",
+      "author": "Milan",
+      "id": 2,
+      "technologiesUsed": [
+        {
+          "svgIcon": "devicon-figma-plain"
+        },
+        {
+          "svgIcon": "devicon-html5-plain"
+        },
+        {
+          "svgIcon": "devicon-css3-plain"
+        }
+      ]
+    },
+    {
       "title": "Tde Mobil",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/tdiMobil_IlaD69bVX.webp",
       "linkSrc": "http://tdemobil.com/",
@@ -58,31 +96,13 @@
       "projectTime": "Time spent on this project is seven days.",
 
       "author": "Milan",
-      "id": 1,
+      "id": 3,
       "technologiesUsed": [
         {
           "svgIcon": "devicon-photoshop-plain"
         },
         {
           "svgIcon": "devicon-illustrator-plain"
-        }
-      ]
-    },
-    {
-      "title": "Astro portfolio",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/astro-portfolio_yZAHv5gTE.webp?updatedAt=1687159292492",
-      "linkSrc": "https://taraba-task-2023.netlify.app/",
-      "body": "Astro portfolio is small website that I did in practice pirpuse for astro ssg practice.",
-      "projectTime": "I still experiment with it.",
-
-      "author": "Milan",
-      "id": 2,
-      "technologiesUsed": [
-        {
-          "svgIcon": "devicon-html5-plain"
-        },
-        {
-          "svgIcon": "devicon-css3-plain"
         }
       ]
     },
@@ -94,7 +114,7 @@
       "projectTime": "Time spent on this project is one month.",
 
       "author": "Milan",
-      "id": 3,
+      "id": 4,
       "technologiesUsed": [
         {
           "svgIcon": "devicon-html5-plain"
@@ -132,7 +152,7 @@
       "body": "Aphillyated is a logotip that I made for 99designs.com competition.",
       "projectTime": "Time spent on this project is seven days.",
       "author": "Milan",
-      "id": 4,
+      "id": 5,
       "technologiesUsed": [
         {
           "svgIcon": "devicon-photoshop-plain"
@@ -149,7 +169,7 @@
       "body": "Weather app is a task that I did for Execome company. Entry task.",
       "projectTime": "Time spent on this project is seven days.",
       "author": "Milan",
-      "id": 5,
+      "id": 6,
       "technologiesUsed": [
         {
           "svgIcon": "devicon-photoshop-plain"
@@ -159,26 +179,6 @@
         },
         {
           "svgIcon": "devicon-angularjs-plain"
-        }
-      ]
-    },
-    {
-      "title": "Bolt",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/starter_bolt_n5r9ZPmtM.webp?updatedAt=1687159292377",
-      "linkSrc": "https://taraba-task-2023.netlify.app/",
-      "body": "Bolt is a website that I did for Taraba. Entry task.",
-      "projectTime": "Time spent on this project is seven days.",
-      "author": "Milan",
-      "id": 6,
-      "technologiesUsed": [
-        {
-          "svgIcon": "devicon-figma-plain"
-        },
-        {
-          "svgIcon": "devicon-html5-plain"
-        },
-        {
-          "svgIcon": "devicon-css3-plain"
         }
       ]
     },
@@ -222,7 +222,7 @@
       "projectTime": "Time spent on this project is seven days.",
 
       "author": "Milan",
-      "id": 7,
+      "id": 8,
       "technologiesUsed": [
         {
           "svgIcon": "devicon-photoshop-plain"
