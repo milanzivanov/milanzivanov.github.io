@@ -65,6 +65,9 @@
         },
         {
           "svgIcon": "devicon-css3-plain"
+        },
+        {
+          "svgIcon": "devicon-javascript-plain"
         }
       ]
     },
@@ -120,6 +123,9 @@
         },
         {
           "svgIcon": "devicon-css3-plain"
+        },
+        {
+          "svgIcon": "devicon-javascript-plain"
         }
       ]
     },
