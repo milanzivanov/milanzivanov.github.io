@@ -53,7 +53,7 @@
     {
       "title": "Astro portfolio",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/astro-portfolio_yZAHv5gTE.webp",
-      "linkSrc": "https://taraba-task-2023.netlify.app/",
+      "linkSrc": "https://astro-milan.netlify.app/",
       "body": "Astro portfolio is a small website that I did in practice purposes. Astro is an innovative static site generator that empowers developers to create stunning portfolios. With its flexible architecture, component-driven development, and optimized build process, Astro offers a seamless and efficient way to showcase your skills and creativity. It's the perfect tool for crafting impressive portfolio websites.",
       "projectTime": "I still experiment with it.",
 
@@ -110,8 +110,8 @@
       "title": "Astro portfolio website",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/astro-aleks_cMDy_2Pj3.webp",
       "linkSrc": "https://portfolio-in-astro.netlify.app/",
-      "body": "Astro portfolio is a small website that I did in practice purposes. Astro is an innovative static site generator that empowers developers to create stunning portfolios. With its flexible architecture, component-driven development, and optimized build process, Astro offers a seamless and efficient way to showcase your skills and creativity. It's the perfect tool for crafting impressive portfolio websites.",
-      "projectTime": "I still experiment with astro.",
+      "body": "Astro portfolio is a small porfolio website that I did in practice purposes for friend Aleksandra. Astro is an innovative static site generator that empowers developers to create stunning portfolios. With its flexible architecture, component-driven development, and optimized build process, Astro offers a seamless and efficient way to showcase your skills and creativity. It's the perfect tool for crafting impressive portfolio websites.",
+      "projectTime": "I still experiment with it.",
       "author": "Milan",
       "id": 4,
       "technologiesUsed": [
@@ -150,10 +150,10 @@
       "id": 6,
       "technologiesUsed": [
         {
-          "svgIcon": "devicon-photoshop-plain"
+          "svgIcon": "devicon-html5-plain"
         },
         {
-          "svgIcon": "devicon-illustrator-plain"
+          "svgIcon": "devicon-css3-plain"
         },
         {
           "svgIcon": "devicon-angularjs-plain"
