@@ -37,8 +37,8 @@
       "iconTitle": "jQuery"
     },
     {
-      "iconClass": "devicon-angularjs-plain",
-      "iconTitle": "angular"
+      "iconClass": "devicon-react-original",
+      "iconTitle": "react"
     },
     {
       "iconClass": "devicon-amazonwebservices-original",
@@ -50,27 +50,6 @@
     }
   ],
   "works": [
-    {
-      "title": "Astro portfolio",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/astro-portfolio_yZAHv5gTE.webp",
-      "linkSrc": "https://astro-milan.netlify.app/",
-      "body": "Astro portfolio is a small website that I did in practice purposes. Astro is an innovative static site generator that empowers developers to create stunning portfolios. With its flexible architecture, component-driven development, and optimized build process, Astro offers a seamless and efficient way to showcase your skills and creativity. It's the perfect tool for crafting impressive portfolio websites.",
-      "projectTime": "I still experiment with it.",
-
-      "author": "Milan",
-      "id": 1,
-      "technologiesUsed": [
-        {
-          "svgIcon": "devicon-html5-plain"
-        },
-        {
-          "svgIcon": "devicon-css3-plain"
-        },
-        {
-          "svgIcon": "devicon-javascript-plain"
-        }
-      ]
-    },
     {
       "title": "Bolt",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/starter_bolt_DwO78YO1U.webp",
@@ -113,7 +92,7 @@
       "title": "Astro portfolio website",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/astro-aleks_cMDy_2Pj3.webp",
       "linkSrc": "https://portfolio-in-astro.netlify.app/",
-      "body": "I redesigned a small portfolio website from WordPress(https://www.am-creates.com/) to Astro for my friend Aleksandra. Astro is an innovative static site generator that allows developers to create stunning portfolios. With its flexible architecture, component-driven development, and optimized build process, Astro provides an efficient way to showcase skills and creativity. It's the perfect tool for crafting impressive portfolio websites. All graphic design material used in this work is made by Aleksandra",
+      "body": "I redesigned a small portfolio website from WordPress to Astro for my friend Aleksandra. Astro is an innovative static site generator that allows developers to create stunning portfolios. With its flexible architecture, component-driven development, and optimized build process, Astro provides an efficient way to showcase skills and creativity. It's the perfect tool for crafting impressive portfolio websites. All graphic design material used in this work is made by Aleksandra",
       "projectTime": "I still experiment with it.",
       "author": "Milan",
       "id": 4,
@@ -126,23 +105,6 @@
         },
         {
           "svgIcon": "devicon-javascript-plain"
-        }
-      ]
-    },
-    {
-      "title": "Aphillyated",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/apjillyated_y1_nln72t.webp",
-      "linkSrc": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/apjillyated_y1_nln72t.webp",
-      "body": "Aphillyated is a logo I designed for a competition on 99designs.com, combining creativity and skill to create a captivating and memorable visual representation.",
-      "projectTime": "Time spent on this project is seven days.",
-      "author": "Milan",
-      "id": 5,
-      "technologiesUsed": [
-        {
-          "svgIcon": "devicon-photoshop-plain"
-        },
-        {
-          "svgIcon": "devicon-illustrator-plain"
         }
       ]
     },
@@ -163,38 +125,6 @@
         },
         {
           "svgIcon": "devicon-angularjs-plain"
-        }
-      ]
-    },
-    {
-      "title": "Logo Logo",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/logoLogo_w30S2lSZAB.webp",
-      "linkSrc": "http://axiomq-test2021.surge.sh/",
-      "body": "Logo Logo is a website I created as an entry task for AxiomQ, demonstrating my skills in web development and design, particularly in the realm of logo creation and branding.",
-      "projectTime": "Time spent on this project is seven days.",
-      "author": "Milan",
-      "id": 7,
-      "technologiesUsed": [
-        {
-          "svgIcon": "devicon-html5-plain"
-        },
-        {
-          "svgIcon": "devicon-css3-plain"
-        },
-        {
-          "svgIcon": "devicon-sass-original"
-        },
-        {
-          "svgIcon": "devicon-photoshop-plain"
-        },
-        {
-          "svgIcon": "devicon-illustrator-plain"
-        },
-        {
-          "svgIcon": "devicon-javascript-plain"
-        },
-        {
-          "svgIcon": "devicon-gulp-plain"
         }
       ]
     },
