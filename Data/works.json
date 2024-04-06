@@ -57,6 +57,26 @@
       "body": "Sa emocijama na ti is a website I designed and it is still under construction, I do this for a friend of a friend who is working with emotion workshops.",
       "projectTime": "In construction...",
       "author": "Milan",
+      "id": 1,
+      "technologiesUsed": [
+        {
+          "svgIcon": "devicon-html5-plain"
+        },
+        {
+          "svgIcon": "devicon-css3-plain"
+        },
+        {
+          "svgIcon": "devicon-javascript-plain"
+        }
+      ]
+    },
+    {
+      "title": "Astro Milan",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/astroMilan_x8rOWmaXP.webp",
+      "linkSrc": "https://astro-milan.netlify.app/",
+      "body": "This website was created for practice purposes using Astro, a static site generator.",
+      "projectTime": "Im still playing with it...",
+      "author": "Milan",
       "id": 2,
       "technologiesUsed": [
         {
@@ -77,7 +97,7 @@
       "body": "Bolt is a website I developed for Taraba company as an entry task, translating Figma designs into production-ready code efficiently and accurately.",
       "projectTime": "Time spent on this project is five days.",
       "author": "Milan",
-      "id": 2,
+      "id": 3,
       "technologiesUsed": [
         {
           "svgIcon": "devicon-figma-plain"
@@ -98,7 +118,7 @@
       "projectTime": "Time spent on this project is six days.",
 
       "author": "Milan",
-      "id": 3,
+      "id": 4,
       "technologiesUsed": [
         {
           "svgIcon": "devicon-photoshop-plain"
@@ -115,7 +135,7 @@
       "body": "I redesigned a small portfolio website from WordPress to Astro for my friend Aleksandra. Astro is an innovative static site generator that allows developers to create stunning portfolios. With its flexible architecture, component-driven development, and optimized build process, Astro provides an efficient way to showcase skills and creativity. It's the perfect tool for crafting impressive portfolio websites. All graphic design material used in this work is made by Aleksandra",
       "projectTime": "I still experiment with it.",
       "author": "Milan",
-      "id": 4,
+      "id": 5,
       "technologiesUsed": [
         {
           "svgIcon": "devicon-html5-plain"
@@ -156,7 +176,7 @@
       "projectTime": "Time spent on this project is seven days.",
 
       "author": "Milan",
-      "id": 8,
+      "id": 7,
       "technologiesUsed": [
         {
           "svgIcon": "devicon-photoshop-plain"
