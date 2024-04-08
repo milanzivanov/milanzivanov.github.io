@@ -129,33 +129,13 @@
       ]
     },
     {
-      "title": "Astro portfolio website",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/astro-aleks_cMDy_2Pj3.webp",
-      "linkSrc": "https://portfolio-in-astro.netlify.app/",
-      "body": "I redesigned a small portfolio website from WordPress to Astro for my friend Aleksandra. Astro is an innovative static site generator that allows developers to create stunning portfolios. With its flexible architecture, component-driven development, and optimized build process, Astro provides an efficient way to showcase skills and creativity. It's the perfect tool for crafting impressive portfolio websites. All graphic design material used in this work is made by Aleksandra",
-      "projectTime": "I still experiment with it.",
-      "author": "Milan",
-      "id": 5,
-      "technologiesUsed": [
-        {
-          "svgIcon": "devicon-html5-plain"
-        },
-        {
-          "svgIcon": "devicon-css3-plain"
-        },
-        {
-          "svgIcon": "devicon-javascript-plain"
-        }
-      ]
-    },
-    {
       "title": "Weather App",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/gtw2_xEtfs_Isc.webp",
       "linkSrc": "http://hideous-news.surge.sh/",
       "body": "I completed a weather app task as an entry task for Execome company, showcasing my ability to develop a functional and user-friendly application.",
       "projectTime": "Time spent on this project is seven days.",
       "author": "Milan",
-      "id": 6,
+      "id": 5,
       "technologiesUsed": [
         {
           "svgIcon": "devicon-html5-plain"
@@ -176,7 +156,7 @@
       "projectTime": "Time spent on this project is seven days.",
 
       "author": "Milan",
-      "id": 7,
+      "id": 6,
       "technologiesUsed": [
         {
           "svgIcon": "devicon-photoshop-plain"
