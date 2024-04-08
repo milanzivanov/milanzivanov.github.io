@@ -51,11 +51,11 @@
   ],
   "works": [
     {
-      "title": "Sa emocijama na ti",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/sa-emocijama-na-ti_noCpk2BqM.webp",
-      "linkSrc": "https://saemocijamanati.netlify.app/",
-      "body": "Sa emocijama na ti is a website I designed and it is still under construction, I do this for a friend of a friend who is working with emotion workshops.",
-      "projectTime": "In construction...",
+      "title": "Astro Milan",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/asto-milan-portfolio_XT2yR9Sib.webp",
+      "linkSrc": "https://astro-milan.netlify.app/",
+      "body": "This website was created for practice purposes using Astro, a static site generator.",
+      "projectTime": "Im still playing with it...",
       "author": "Milan",
       "id": 1,
       "technologiesUsed": [
@@ -71,11 +71,11 @@
       ]
     },
     {
-      "title": "Astro Milan",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/asto-milan-portfolio_XT2yR9Sib.webp",
-      "linkSrc": "https://astro-milan.netlify.app/",
-      "body": "This website was created for practice purposes using Astro, a static site generator.",
-      "projectTime": "Im still playing with it...",
+      "title": "Sa emocijama na ti",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/sa-emocijama-na-ti_noCpk2BqM.webp",
+      "linkSrc": "https://saemocijamanati.netlify.app/",
+      "body": "Sa emocijama na ti is a website I designed and it is still under construction, I do this for a friend of a friend who is working with emotion workshops.",
+      "projectTime": "In construction...",
       "author": "Milan",
       "id": 2,
       "technologiesUsed": [
@@ -90,6 +90,7 @@
         }
       ]
     },
+
     {
       "title": "Bolt",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/starter_bolt_DwO78YO1U.webp",
