@@ -51,7 +51,7 @@
   ],
   "works": [
     {
-      "title": "Astro Milan",
+      "title": "Astro portfolio",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/asto-milan-portfolio_XT2yR9Sib.webp",
       "linkSrc": "https://astro-milan.netlify.app/",
       "body": "This website was created for practice purposes using Astro, a static site generator.",
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "title": "Tde Mobil",
+      "title": "Tde mobil",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/tdiMobil_IlaD69bVX.webp",
       "linkSrc": "http://tdemobil.com/",
       "body": "I created the TdeMobil logo for a mobile shop with the same name, crafting a visually appealing and distinctive design that represents the brand's identity.",
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "title": "Weather App",
+      "title": "Weather app",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/gtw2_xEtfs_Isc.webp",
       "linkSrc": "http://hideous-news.surge.sh/",
       "body": "I completed a weather app task as an entry task for Execome company, showcasing my ability to develop a functional and user-friendly application.",
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "title": "Hacker News",
+      "title": "Hacker news",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/hn-clone2_KhnFpsRrA.webp",
       "linkSrc": "http://hnclone2019.surge.sh/",
       "body": "Hacker news clone is an app that I made for Execome company, entry task.",
