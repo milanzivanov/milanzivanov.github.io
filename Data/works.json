@@ -25,16 +25,16 @@
       "iconTitle": "sass"
     },
     {
-      "iconClass": "devicon-gulp-plain",
-      "iconTitle": "Gulp"
+      "iconClass": "devicon-vitejs-plain",
+      "iconTitle": "Vite"
     },
     {
       "iconClass": "devicon-javascript-plain",
       "iconTitle": "javascript"
     },
     {
-      "iconClass": "devicon-jquery-plain",
-      "iconTitle": "jQuery"
+      "iconClass": "devicon-astro-plain",
+      "iconTitle": "Astro"
     },
     {
       "iconClass": "devicon-react-original",
@@ -67,6 +67,9 @@
         },
         {
           "svgIcon": "devicon-javascript-plain"
+        },
+        {
+          "svgIcon": "devicon-astro-plain"
         }
       ]
     },
@@ -87,27 +90,9 @@
         },
         {
           "svgIcon": "devicon-javascript-plain"
-        }
-      ]
-    },
-
-    {
-      "title": "Bolt",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/starter_bolt_DwO78YO1U.webp",
-      "linkSrc": "https://taraba-task-2023.netlify.app/",
-      "body": "Bolt is a website I developed for Taraba company as an entry task, translating Figma designs into production-ready code efficiently and accurately.",
-      "projectTime": "Time spent on this project is five days.",
-      "author": "Milan",
-      "id": 3,
-      "technologiesUsed": [
-        {
-          "svgIcon": "devicon-figma-plain"
         },
         {
-          "svgIcon": "devicon-html5-plain"
-        },
-        {
-          "svgIcon": "devicon-css3-plain"
+          "svgIcon": "devicon-vitejs-plain"
         }
       ]
     },
@@ -119,7 +104,7 @@
       "projectTime": "Time spent on this project is six days.",
 
       "author": "Milan",
-      "id": 4,
+      "id": 3,
       "technologiesUsed": [
         {
           "svgIcon": "devicon-photoshop-plain"
@@ -136,7 +121,7 @@
       "body": "I completed a weather app task as an entry task for Execome company, showcasing my ability to develop a functional and user-friendly application.",
       "projectTime": "Time spent on this project is seven days.",
       "author": "Milan",
-      "id": 5,
+      "id": 4,
       "technologiesUsed": [
         {
           "svgIcon": "devicon-html5-plain"
@@ -150,23 +135,45 @@
       ]
     },
     {
-      "title": "Hacker news",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/hn-clone2_KhnFpsRrA.webp",
-      "linkSrc": "http://hnclone2019.surge.sh/",
-      "body": "Hacker news clone is an app that I made for Execome company, entry task.",
-      "projectTime": "Time spent on this project is seven days.",
-
+      "title": "Today I learned",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/Today-I-Learned_MtYWcMXd4.webp?updatedAt=1717166347860",
+      "linkSrc": "https://todayilearned-milan.netlify.app/",
+      "body": "Crash course build a full-stack web app in a weekend!",
+      "projectTime": "Time spent on this project is two weekends.",
+      "author": "Milan",
+      "id": 5,
+      "technologiesUsed": [
+        {
+          "svgIcon": "devicon-react-original"
+        },
+        {
+          "svgIcon": "devicon-html5-plain"
+        },
+        {
+          "svgIcon": "devicon-css3-plain"
+        }
+      ]
+    },
+    {
+      "title": "Comfy store app",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/Comfy-store-TS_R4jRBsEoe.webp",
+      "linkSrc": "https://comfy-store-mz.netlify.app/",
+      "body": "Udemy course that I bought for learning to react with typescript.",
+      "projectTime": "Time spent on this project is one month.",
       "author": "Milan",
       "id": 6,
       "technologiesUsed": [
         {
-          "svgIcon": "devicon-photoshop-plain"
+          "svgIcon": "devicon-react-original"
         },
         {
-          "svgIcon": "devicon-illustrator-plain"
+          "svgIcon": "devicon-typescript-plain"
         },
         {
-          "svgIcon": "devicon-angularjs-plain"
+          "svgIcon": "devicon-html5-plain"
+        },
+        {
+          "svgIcon": "devicon-css3-plain"
         }
       ]
     }
