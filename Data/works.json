@@ -115,36 +115,19 @@
       ]
     },
     {
-      "title": "Weather app",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/gtw2_xEtfs_Isc.webp",
-      "linkSrc": "http://hideous-news.surge.sh/",
-      "body": "I completed a weather app task as an entry task for Execome company, showcasing my ability to develop a functional and user-friendly application.",
-      "projectTime": "Time spent on this project is seven days.",
-      "author": "Milan",
-      "id": 4,
-      "technologiesUsed": [
-        {
-          "svgIcon": "devicon-html5-plain"
-        },
-        {
-          "svgIcon": "devicon-css3-plain"
-        },
-        {
-          "svgIcon": "devicon-angularjs-plain"
-        }
-      ]
-    },
-    {
       "title": "Today I learned",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/Today-I-Learned_MtYWcMXd4.webp?updatedAt=1717166347860",
       "linkSrc": "https://todayilearned-milan.netlify.app/",
       "body": "Crash course build a full-stack web app in a weekend!",
       "projectTime": "Time spent on this project is two weekends.",
       "author": "Milan",
-      "id": 5,
+      "id": 4,
       "technologiesUsed": [
         {
           "svgIcon": "devicon-react-original"
+        },
+        {
+          "svgIcon": "devicon-supabase-plain"
         },
         {
           "svgIcon": "devicon-html5-plain"
@@ -161,7 +144,7 @@
       "body": "Udemy course that I bought for learning to react with typescript.",
       "projectTime": "Time spent on this project is one month.",
       "author": "Milan",
-      "id": 6,
+      "id": 5,
       "technologiesUsed": [
         {
           "svgIcon": "devicon-react-original"
@@ -174,6 +157,26 @@
         },
         {
           "svgIcon": "devicon-css3-plain"
+        }
+      ]
+    },
+    {
+      "title": "Weather app",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/gtw2_xEtfs_Isc.webp",
+      "linkSrc": "http://hideous-news.surge.sh/",
+      "body": "I completed a weather app task as an entry task for Execome company, showcasing my ability to develop a functional and user-friendly application.",
+      "projectTime": "Time spent on this project is seven days.",
+      "author": "Milan",
+      "id": 6,
+      "technologiesUsed": [
+        {
+          "svgIcon": "devicon-html5-plain"
+        },
+        {
+          "svgIcon": "devicon-css3-plain"
+        },
+        {
+          "svgIcon": "devicon-angularjs-plain"
         }
       ]
     }
