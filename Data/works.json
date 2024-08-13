@@ -1,18 +1,6 @@
 {
   "skills": [
     {
-      "iconClass": "devicon-illustrator-plain",
-      "iconTitle": "Illustrator"
-    },
-    {
-      "iconClass": "devicon-photoshop-plain",
-      "iconTitle": "Photoshop"
-    },
-    {
-      "iconClass": "devicon-figma-plain",
-      "iconTitle": "Figma"
-    },
-    {
       "iconClass": "devicon-html5-plain",
       "iconTitle": "html5"
     },
@@ -33,20 +21,32 @@
       "iconTitle": "javascript"
     },
     {
-      "iconClass": "devicon-astro-plain",
-      "iconTitle": "Astro"
-    },
-    {
       "iconClass": "devicon-react-original",
       "iconTitle": "react"
     },
     {
-      "iconClass": "devicon-amazonwebservices-plain-wordmark",
-      "iconTitle": "AWS"
-    },
-    {
       "iconClass": "devicon-github-original",
       "iconTitle": "GitHub"
+    },
+    {
+      "iconClass": "devicon-illustrator-plain",
+      "iconTitle": "Illustrator"
+    },
+    {
+      "iconClass": "devicon-photoshop-plain",
+      "iconTitle": "Photoshop"
+    },
+    {
+      "iconClass": "devicon-figma-plain",
+      "iconTitle": "Figma"
+    },
+    {
+      "iconClass": "devicon-astro-plain",
+      "iconTitle": "Astro"
+    },
+    {
+      "iconClass": "devicon-amazonwebservices-plain-wordmark",
+      "iconTitle": "AWS"
     }
   ],
   "works": [
