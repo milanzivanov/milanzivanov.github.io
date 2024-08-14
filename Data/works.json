@@ -52,7 +52,7 @@
   "works": [
     {
       "title": "Astro portfolio",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/asto-milan-portfolio_XT2yR9Sib.webp",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/astroMilan_rx8Al2Kki.webp",
       "linkSrc": "https://astro-milan.netlify.app/",
       "body": "This website was created for practice purposes using Astro, a static site generator.",
       "projectTime": "Im still playing with it...",
@@ -75,7 +75,7 @@
     },
     {
       "title": "Sa emocijama na ti",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/sa-emocijama-na-ti_noCpk2BqM.webp",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/Sa-emocijama-na-ti_xkpnxFTYT.webp",
       "linkSrc": "https://saemocijamanati.netlify.app/",
       "body": "Sa emocijama na ti is a website I designed and it is still under construction, I do this for a friend of a friend who is working with emotion workshops.",
       "projectTime": "In construction...",
@@ -98,7 +98,7 @@
     },
     {
       "title": "Tde mobil",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/tdeMobile_dBKZSyFfX.webp",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/14_NOfX4OpEK.webp",
       "linkSrc": "http://tdemobil.com/",
       "body": "I created the TdeMobil logo for a mobile shop with the same name, crafting a visually appealing and distinctive design that represents the brand's identity.",
       "projectTime": "Time spent on this project is six days.",
@@ -116,7 +116,7 @@
     },
     {
       "title": "Today I learned",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/Today-I-Learned_MtYWcMXd4.webp?updatedAt=1717166347860",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/Today-I-Learned_7vKPEAK31.webp",
       "linkSrc": "https://todayilearned-milan.netlify.app/",
       "body": "Crash course build a full-stack web app in a weekend!",
       "projectTime": "Time spent on this project is two weekends.",
@@ -125,6 +125,9 @@
       "technologiesUsed": [
         {
           "svgIcon": "devicon-react-original"
+        },
+        {
+          "svgIcon": "devicon-vitejs-plain"
         },
         {
           "svgIcon": "devicon-supabase-plain"
@@ -139,7 +142,7 @@
     },
     {
       "title": "Comfy store app",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/Comfy-store-TS_R4jRBsEoe.webp",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/Comfy-store-TS_Ng7p0kAJc.webp",
       "linkSrc": "https://comfy-store-mz.netlify.app/",
       "body": "Udemy course that I bought for learning to react with typescript.",
       "projectTime": "Time spent on this project is one month.",
@@ -161,22 +164,25 @@
       ]
     },
     {
-      "title": "Weather app",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/personal-site-2022/webp/gtw2_xEtfs_Isc.webp",
-      "linkSrc": "http://hideous-news.surge.sh/",
+      "title": "Movies app",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/Movie-Goliath_qZySd3Qe7.webp",
+      "linkSrc": "https://milanzivanov.com",
       "body": "I completed a weather app task as an entry task for Execome company, showcasing my ability to develop a functional and user-friendly application.",
-      "projectTime": "Time spent on this project is seven days.",
+      "projectTime": "Under constraction...",
       "author": "Milan",
       "id": 6,
       "technologiesUsed": [
+        {
+          "svgIcon": "devicon-react-original"
+        },
+        {
+          "svgIcon": "devicon-vitejs-plain"
+        },
         {
           "svgIcon": "devicon-html5-plain"
         },
         {
           "svgIcon": "devicon-css3-plain"
-        },
-        {
-          "svgIcon": "devicon-angularjs-plain"
         }
       ]
     }
