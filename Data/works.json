@@ -166,9 +166,9 @@
     {
       "title": "Movies app",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/Movie-Goliath_qZySd3Qe7.webp?tr=w-1200,h-910",
-      "linkSrc": "https://milanzivanov.com",
-      "body": "This is a project from udemy cours about react... It is still under construction. I am working on it. And I practice on it",
-      "projectTime": "Under constraction...",
+      "linkSrc": "https://milanzivanov.github.io/usePopcornApp/",
+      "body": "I'm practicing React by making this project. It's a work in progress.",
+      "projectTime": "Work in progress...",
       "author": "Milan",
       "id": 6,
       "technologiesUsed": [
