@@ -166,7 +166,7 @@
     {
       "title": "Movies app",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/Movie-Goliath_qZySd3Qe7.webp?tr=w-1200,h-910",
-      "linkSrc": "https://use-popcorn-clone-74335.firebaseapp.com/",
+      "linkSrc": "https://movie-app-clone-delta.vercel.app/",
       "body": "I'm practicing React by making this project. It's a work in progress.",
       "projectTime": "Work in progress...",
       "author": "Milan",
