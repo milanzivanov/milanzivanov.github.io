@@ -59,36 +59,13 @@
   ],
   "works": [
     {
-      "title": "Astro portfolio",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/astroMilan_rx8Al2Kki.webp?tr=w-1200,h-910",
-      "linkSrc": "https://astro-milan.netlify.app/",
-      "body": "This website was created for practice purposes using Astro, a static site generator.",
-      "projectTime": "Im still playing with it...",
-      "author": "Milan",
       "id": 1,
-      "technologiesUsed": [
-        {
-          "svgIcon": "devicon-html5-plain"
-        },
-        {
-          "svgIcon": "devicon-css3-plain"
-        },
-        {
-          "svgIcon": "devicon-javascript-plain"
-        },
-        {
-          "svgIcon": "devicon-astro-plain"
-        }
-      ]
-    },
-    {
-      "title": "Sa emocijama na ti",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/Sa-emocijama-na-ti_xkpnxFTYT.webp?tr=w-1200,h-910",
-      "linkSrc": "https://saemocijamanati.netlify.app/",
-      "body": "Sa emocijama na ti is a website I designed and it is still under construction, I do this for a friend of a friend who is working with emotion workshops.",
-      "projectTime": "In construction...",
+      "title": "Kulturni heroj",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/kh_6CLL6eDaT.webp?tr=w-1200,h-910",
+      "linkSrc": "https://kulturniheroj.org",
+      "body": "Kulturni Heroj, or Cultural Hero, is a web blog portal dedicated to cultural topics in Serbia. It features a login system and a dashboard that allows administrators to manage content.",
+      "projectTime": "Still developing it...",
       "author": "Milan",
-      "id": 2,
       "technologiesUsed": [
         {
           "svgIcon": "devicon-html5-plain"
@@ -97,7 +74,10 @@
           "svgIcon": "devicon-css3-plain"
         },
         {
-          "svgIcon": "devicon-javascript-plain"
+          "svgIcon": "devicon-react-original"
+        },
+        {
+          "svgIcon": "devicon-supabase-plain"
         },
         {
           "svgIcon": "devicon-vitejs-plain"
@@ -105,31 +85,13 @@
       ]
     },
     {
-      "title": "Tde mobil",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/14_NOfX4OpEK.webp?tr=w-1200,h-910",
-      "linkSrc": "http://tdemobil.com/",
-      "body": "I created the TdeMobil logo for a mobile shop with the same name, crafting a visually appealing and distinctive design that represents the brand's identity.",
-      "projectTime": "Time spent on this project is six days.",
-
-      "author": "Milan",
-      "id": 3,
-      "technologiesUsed": [
-        {
-          "svgIcon": "devicon-photoshop-plain"
-        },
-        {
-          "svgIcon": "devicon-illustrator-plain"
-        }
-      ]
-    },
-    {
+      "id": 2,
       "title": "Today I learned",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/Today-I-Learned_7vKPEAK31.webp?tr=w-1450,h-900",
       "linkSrc": "https://todayilearned-milan.netlify.app/",
       "body": "Crash course build a full-stack web app in a weekend!",
       "projectTime": "Time spent on this project is two weekends.",
       "author": "Milan",
-      "id": 4,
       "technologiesUsed": [
         {
           "svgIcon": "devicon-react-original"
@@ -149,13 +111,13 @@
       ]
     },
     {
+      "id": 3,
       "title": "Comfy store app",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/Comfy-store-TS_Ng7p0kAJc.webp?tr=w-1200,h-910",
       "linkSrc": "https://comfy-store-mz.netlify.app/",
       "body": "Udemy course that I bought for learning to react with typescript.",
       "projectTime": "Time spent on this project is one month.",
       "author": "Milan",
-      "id": 5,
       "technologiesUsed": [
         {
           "svgIcon": "devicon-react-original"
@@ -172,13 +134,13 @@
       ]
     },
     {
+      "id": 4,
       "title": "Movies app",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/Movie-Goliath_qZySd3Qe7.webp?tr=w-1200,h-910",
       "linkSrc": "https://movie-app-clone-delta.vercel.app/",
       "body": "I'm practicing React by making this project. It's a work in progress.",
       "projectTime": "Work in progress...",
       "author": "Milan",
-      "id": 6,
       "technologiesUsed": [
         {
           "svgIcon": "devicon-react-original"
@@ -191,6 +153,23 @@
         },
         {
           "svgIcon": "devicon-css3-plain"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Tde mobil",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/14_NOfX4OpEK.webp?tr=w-1200,h-910",
+      "linkSrc": "http://tdemobil.com/",
+      "body": "I created the TdeMobil logo for a mobile shop with the same name, crafting a visually appealing and distinctive design that represents the brand's identity.",
+      "projectTime": "Time spent on this project is six days.",
+      "author": "Milan",
+      "technologiesUsed": [
+        {
+          "svgIcon": "devicon-photoshop-plain"
+        },
+        {
+          "svgIcon": "devicon-illustrator-plain"
         }
       ]
     }
