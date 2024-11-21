@@ -25,6 +25,14 @@
       "iconTitle": "react"
     },
     {
+      "iconClass": "devicon-supabase-plain",
+      "iconTitle": "supabase"
+    },
+    {
+      "iconClass": "devicon-nextjs-original-wordmark colored",
+      "iconTitle": "nextjs"
+    },
+    {
       "iconClass": "devicon-github-original",
       "iconTitle": "GitHub"
     },
