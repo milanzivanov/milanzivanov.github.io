@@ -63,8 +63,8 @@
       "title": "Kulturni heroj",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/kh_6CLL6eDaT.webp",
       "linkSrc": "https://kulturniheroj.org",
-      "body": "Kulturni Heroj, or Cultural Hero, is a web blog portal dedicated to cultural topics in Serbia. It features a login system and a dashboard that allows administrators to manage content.",
-      "projectTime": "Still developing it...",
+      "body": "Kulturni Heroj, or Cultural Hero, is a web blog portal dedicated to cultural topics in Serbia. It features a login system and a dashboard that allows administrators to manage content. ",
+      "projectTime": "The project is still under development...",
       "author": "Milan",
       "technologiesUsed": [
         {
@@ -89,7 +89,7 @@
       "title": "Today I learned",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/TIL_SSsHV6HEW.webp?updatedAt=1732218176905",
       "linkSrc": "https://todayilearned-milan.netlify.app/",
-      "body": "Crash course build a full-stack web app in a weekend!",
+      "body": "Crash course build a full-stack web app in a weekend! In this project for backend I used supabase and for frontend I used react and vite.",
       "projectTime": "Time spent on this project is two weekends.",
       "author": "Milan",
       "technologiesUsed": [
@@ -115,7 +115,7 @@
       "title": "Comfy store app",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/Comfy-store-TS_Ng7p0kAJc.webp",
       "linkSrc": "https://comfy-store-mz.netlify.app/",
-      "body": "Udemy course that I bought for learning to react with typescript.",
+      "body": "Udemy course that I bought for learning react with typescript. Main goal was to learn react and it was a great experience.",
       "projectTime": "Time spent on this project is one month.",
       "author": "Milan",
       "technologiesUsed": [
@@ -138,8 +138,8 @@
       "title": "Movies app",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/Movie-Goliath_qZySd3Qe7.webp",
       "linkSrc": "https://movie-app-clone-delta.vercel.app/",
-      "body": "I'm practicing React by making this project. It's a work in progress.",
-      "projectTime": "Work in progress...",
+      "body": "I'm practicing React by making this project. Started from basic features and now I'm working on more advanced features.",
+      "projectTime": "Time spent on this project is two month.",
       "author": "Milan",
       "technologiesUsed": [
         {
@@ -162,7 +162,7 @@
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/14_NOfX4OpEK.webp",
       "linkSrc": "http://tdemobil.com/",
       "body": "I created the TdeMobil logo for a mobile shop with the same name, crafting a visually appealing and distinctive design that represents the brand's identity.",
-      "projectTime": "Time spent on this project is six days.",
+      "projectTime": "Time spent on this project is seven days.",
       "author": "Milan",
       "technologiesUsed": [
         {
