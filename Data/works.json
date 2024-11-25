@@ -183,16 +183,13 @@
       "author": "Milan",
       "technologiesUsed": [
         {
-          "iconClass": "devicon-sass-original",
-          "iconTitle": "sass"
+          "svgIcon": "devicon-vitejs-plain"
         },
         {
-          "iconClass": "devicon-vitejs-plain",
-          "iconTitle": "Vite"
+          "svgIcon": "devicon-html5-plain"
         },
         {
-          "iconClass": "devicon-javascript-plain",
-          "iconTitle": "javascript"
+          "svgIcon": "devicon-css3-plain"
         }
       ]
     }
