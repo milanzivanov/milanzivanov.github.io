@@ -199,16 +199,13 @@
       "author": "Milan",
       "technologiesUsed": [
         {
+          "svgIcon": "devicon-vitejs-plain"
+        },
+        {
           "svgIcon": "devicon-html5-plain"
         },
         {
-          "svgIcon": "devicon-tailwindcss-original"
-        },
-        {
-          "svgIcon": "devicon-nextjs-plain"
-        },
-        {
-          "svgIcon": "devicon-vercel-original"
+          "svgIcon": "devicon-css3-plain"
         }
       ]
     }
