@@ -1,6 +1,10 @@
 {
   "skills": [
     {
+      "iconClass": "devicon-vscode-plain",
+      "iconTitle": "vscode"
+    },
+    {
       "iconClass": "devicon-html5-plain",
       "iconTitle": "html5"
     },
@@ -13,12 +17,24 @@
       "iconTitle": "sass"
     },
     {
+      "iconClass": "devicon-tailwindcss-original",
+      "iconTitle": "tailwindcss"
+    },
+    {
       "iconClass": "devicon-vitejs-plain",
-      "iconTitle": "Vite"
+      "iconTitle": "vite"
     },
     {
       "iconClass": "devicon-javascript-plain",
       "iconTitle": "javascript"
+    },
+    {
+      "iconClass": "devicon-gulp-plain",
+      "iconTitle": "gulp"
+    },
+    {
+      "iconClass": "devicon-vercel-original",
+      "iconTitle": "vercel"
     },
     {
       "iconClass": "devicon-react-original",
@@ -71,7 +87,7 @@
           "svgIcon": "devicon-html5-plain"
         },
         {
-          "svgIcon": "devicon-css3-plain"
+          "svgIcon": "devicon-tailwindcss-original"
         },
         {
           "svgIcon": "devicon-react-original"
@@ -183,13 +199,16 @@
       "author": "Milan",
       "technologiesUsed": [
         {
-          "svgIcon": "devicon-vitejs-plain"
-        },
-        {
           "svgIcon": "devicon-html5-plain"
         },
         {
-          "svgIcon": "devicon-css3-plain"
+          "svgIcon": "devicon-tailwindcss-original"
+        },
+        {
+          "svgIcon": "devicon-nextjs-plain"
+        },
+        {
+          "svgIcon": "devicon-vercel-original"
         }
       ]
     }
