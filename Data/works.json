@@ -152,7 +152,7 @@
     {
       "id": 4,
       "title": "Movies app",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Today-I-Learned_AXCU7ZUJZ.webp",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Movie-Interstellar_GsRqTP5av.webp",
       "linkSrc": "https://usepopcornclone.netlify.app/",
       "body": "I'm practicing React by making this project. Started from basic features and now I'm working on more advanced features.",
       "projectTime": "Time spent on this project is two month.",
@@ -172,25 +172,9 @@
         }
       ]
     },
+
     {
       "id": 5,
-      "title": "Tde mobil",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/tdeM_vtZqMezUr.webp",
-      "linkSrc": "http://tdemobil.com/",
-      "body": "I created the TdeMobil logo for a mobile shop with the same name, crafting a visually appealing and distinctive design that represents the brand's identity.",
-      "projectTime": "Time spent on this project is seven days.",
-      "author": "Milan",
-      "technologiesUsed": [
-        {
-          "svgIcon": "devicon-photoshop-plain"
-        },
-        {
-          "svgIcon": "devicon-illustrator-plain"
-        }
-      ]
-    },
-    {
-      "id": 6,
       "title": "Personal site old",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Milan-Zivanov-Front-end-Developer_b1X3RRkHU.webp",
       "linkSrc": "https://milanzivanov.netlify.app",
@@ -210,9 +194,9 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "title": "Fake shop app",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Milan-Zivanov-Front-end-Developer_b1X3RRkHU.webp",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Fake-shop-app_UMVkSPDAj.webp",
       "linkSrc": "https://fakeshop123.netlify.app/",
       "body": "Final task from javascript-react course summer 2024. This is fake shop app created with react and vite.",
       "projectTime": "One week",
