@@ -77,7 +77,7 @@
     {
       "id": 1,
       "title": "Kulturni heroj",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/kh_6CLL6eDaT.webp",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Kulturni-heroj__flHR7GEEA.webp",
       "linkSrc": "https://kulturniheroj.org",
       "body": "Kulturni Heroj, or Cultural Hero, is a web blog portal dedicated to cultural topics in Serbia. It features a login system and a dashboard that allows administrators to manage content. ",
       "projectTime": "The project is still under development...",
@@ -103,7 +103,7 @@
     {
       "id": 2,
       "title": "Today I learned",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/TIL_SSsHV6HEW.webp?updatedAt=1732218176905",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Today-I-Learned_AXCU7ZUJZ.webp",
       "linkSrc": "https://todayilearned-milan.netlify.app/",
       "body": "Crash course build a full-stack web app in a weekend! In this project for backend I used supabase and for frontend I used react and vite.",
       "projectTime": "Time spent on this project is two weekends.",
@@ -129,7 +129,7 @@
     {
       "id": 3,
       "title": "Comfy store app",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/Comfy-store_vdn2_zo0f.webp",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Comfy-store-TS_KWown2DNe.webp",
       "linkSrc": "https://comfy-store-mz.netlify.app/",
       "body": "Udemy course that I bought for learning react with typescript. Main goal was to learn react and it was a great experience.",
       "projectTime": "Time spent on this project is one month.",
@@ -152,8 +152,8 @@
     {
       "id": 4,
       "title": "Movies app",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/portfolio-projects/Movie-app_ixaauqqOS.webp?updatedAt=1732369559025",
-      "linkSrc": "https://movie-app-clone-delta.vercel.app/",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Today-I-Learned_AXCU7ZUJZ.webp",
+      "linkSrc": "https://usepopcornclone.netlify.app/",
       "body": "I'm practicing React by making this project. Started from basic features and now I'm working on more advanced features.",
       "projectTime": "Time spent on this project is two month.",
       "author": "Milan",
@@ -192,7 +192,7 @@
     {
       "id": 6,
       "title": "Personal site old",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/mzwebsiteold_hEWI2-Y-4.webp",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Milan-Zivanov-Front-end-Developer_b1X3RRkHU.webp",
       "linkSrc": "https://milanzivanov.netlify.app",
       "body": "This is my old personal website, which I created using HTML, CSS, JavaScript and Vite. I made it to practice my skills and to show my work and skills. Frontend and design is mede by me.",
       "projectTime": "One month",
@@ -206,6 +206,29 @@
         },
         {
           "svgIcon": "devicon-css3-plain"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Fake shop app",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Milan-Zivanov-Front-end-Developer_b1X3RRkHU.webp",
+      "linkSrc": "https://fakeshop123.netlify.app/",
+      "body": "Final task from javascript-react course summer 2024. This is fake shop app created with react and vite.",
+      "projectTime": "One week",
+      "author": "Milan",
+      "technologiesUsed": [
+        {
+          "svgIcon": "devicon-vitejs-plain"
+        },
+        {
+          "svgIcon": "devicon-react-original"
+        },
+        {
+          "svgIcon": "devicon-html5-plain"
+        },
+        {
+          "svgIcon": "devicon-tailwindcss-original"
         }
       ]
     }
