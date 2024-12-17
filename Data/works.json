@@ -29,6 +29,10 @@
       "iconTitle": "javascript"
     },
     {
+      "iconClass": "devicon-typescript-plain",
+      "iconTitle": "typescript"
+    },
+    {
       "iconClass": "devicon-gulp-plain",
       "iconTitle": "gulp"
     },
@@ -210,6 +214,29 @@
         },
         {
           "svgIcon": "devicon-html5-plain"
+        },
+        {
+          "svgIcon": "devicon-tailwindcss-original"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "The wild oasis",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/two_hFaaMZMR7.webp",
+      "linkSrc": "https://github.com/milanzivanov/Wild-Oasis-Next-TS",
+      "body": "This is a next.js project with typescript, tailwindcss & supabase. It is still in development. Also I'm using this project to practice and learn next.js and typescript.",
+      "projectTime": "In development",
+      "author": "Milan",
+      "technologiesUsed": [
+        {
+          "svgIcon": "devicon-nextjs-plain"
+        },
+        {
+          "svgIcon": "devicon-typescript-plain"
+        },
+        {
+          "svgIcon": "devicon-supabase-plain"
         },
         {
           "svgIcon": "devicon-tailwindcss-original"
