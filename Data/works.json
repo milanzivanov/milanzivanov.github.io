@@ -80,6 +80,29 @@
   "works": [
     {
       "id": 1,
+      "title": "The wild oasis",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/two_hFaaMZMR7.webp",
+      "linkSrc": "https://wild-oasis-next-40101u71g-milanzivanovs-projects.vercel.app",
+      "body": "This is a next.js project with typescript, tailwindcss & supabase. It is still in development. Also I'm using this project to practice and learn next.js and typescript.",
+      "projectTime": "In development",
+      "author": "Milan",
+      "technologiesUsed": [
+        {
+          "svgIcon": "devicon-nextjs-plain"
+        },
+        {
+          "svgIcon": "devicon-typescript-plain"
+        },
+        {
+          "svgIcon": "devicon-supabase-plain"
+        },
+        {
+          "svgIcon": "devicon-tailwindcss-original"
+        }
+      ]
+    },
+    {
+      "id": 2,
       "title": "Kulturni heroj",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Kulturni-heroj__flHR7GEEA.webp",
       "linkSrc": "https://kulturniheroj.org",
@@ -105,7 +128,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Today I learned",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Today-I-Learned_AXCU7ZUJZ.webp",
       "linkSrc": "https://todayilearned-milan.netlify.app/",
@@ -131,7 +154,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Comfy store app",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Comfy-store-TS_KWown2DNe.webp",
       "linkSrc": "https://comfy-store-mz.netlify.app/",
@@ -154,7 +177,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Movies app",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Movie-Interstellar_GsRqTP5av.webp",
       "linkSrc": "https://usepopcornclone.netlify.app/",
@@ -178,7 +201,7 @@
     },
 
     {
-      "id": 5,
+      "id": 6,
       "title": "Personal site old",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Milan-Zivanov-Front-end-Developer_b1X3RRkHU.webp",
       "linkSrc": "https://milanzivanov.netlify.app",
@@ -198,7 +221,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 7,
       "title": "Fake shop app",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Fake-shop-app_UMVkSPDAj.webp",
       "linkSrc": "https://fakeshop123.netlify.app/",
@@ -214,29 +237,6 @@
         },
         {
           "svgIcon": "devicon-html5-plain"
-        },
-        {
-          "svgIcon": "devicon-tailwindcss-original"
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "title": "The wild oasis",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/two_hFaaMZMR7.webp",
-      "linkSrc": "https://github.com/milanzivanov/Wild-Oasis-Next-TS",
-      "body": "This is a next.js project with typescript, tailwindcss & supabase. It is still in development. Also I'm using this project to practice and learn next.js and typescript.",
-      "projectTime": "In development",
-      "author": "Milan",
-      "technologiesUsed": [
-        {
-          "svgIcon": "devicon-nextjs-plain"
-        },
-        {
-          "svgIcon": "devicon-typescript-plain"
-        },
-        {
-          "svgIcon": "devicon-supabase-plain"
         },
         {
           "svgIcon": "devicon-tailwindcss-original"
