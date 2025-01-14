@@ -82,7 +82,7 @@
       "id": 1,
       "title": "The wild Oasis",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/two_hFaaMZMR7.webp",
-      "linkSrc": "https://wild-oasis-next-ouec4f5g4-milanzivanovs-projects.vercel.app/",
+      "linkSrc": "https://wild-oasis-next-ts-git-main-milanzivanovs-projects.vercel.app/",
       "body": "This is a next.js project with typescript, tailwindcss & supabase. It is still in development. Also I'm using this project to practice and learn next.js and typescript.",
       "projectTime": "In development",
       "author": "Milan",
