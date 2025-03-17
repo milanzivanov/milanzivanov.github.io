@@ -1,6 +1,14 @@
 {
   "skills": [
     {
+      "iconClass": "devicon-react-original",
+      "iconTitle": "react"
+    },
+    {
+      "iconClass": "devicon-nextjs-plain",
+      "iconTitle": "nextjs"
+    },
+    {
       "iconClass": "devicon-vscode-plain",
       "iconTitle": "vscode"
     },
@@ -39,14 +47,6 @@
     {
       "iconClass": "devicon-vercel-original",
       "iconTitle": "vercel"
-    },
-    {
-      "iconClass": "devicon-react-original",
-      "iconTitle": "react"
-    },
-    {
-      "iconClass": "devicon-nextjs-plain",
-      "iconTitle": "nextjs"
     },
     {
       "iconClass": "devicon-supabase-plain",
@@ -129,32 +129,6 @@
     },
     {
       "id": 3,
-      "title": "Today I learned",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Today-I-Learned_AXCU7ZUJZ.webp",
-      "linkSrc": "https://todayilearned-milan.netlify.app/",
-      "body": "Crash course build a full-stack web app in a weekend! In this project for backend I used supabase and for frontend I used react and vite.",
-      "projectTime": "Time spent on this project is two weekends.",
-      "author": "Milan",
-      "technologiesUsed": [
-        {
-          "svgIcon": "devicon-react-original"
-        },
-        {
-          "svgIcon": "devicon-vitejs-plain"
-        },
-        {
-          "svgIcon": "devicon-supabase-plain"
-        },
-        {
-          "svgIcon": "devicon-html5-plain"
-        },
-        {
-          "svgIcon": "devicon-css3-plain"
-        }
-      ]
-    },
-    {
-      "id": 4,
       "title": "Comfy store app",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Comfy-store-TS_KWown2DNe.webp",
       "linkSrc": "https://comfy-store-mz.netlify.app/",
@@ -177,7 +151,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "title": "Movies app",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Movie-Interstellar_GsRqTP5av.webp",
       "linkSrc": "https://usepopcornclone.netlify.app/",
@@ -201,7 +175,7 @@
     },
 
     {
-      "id": 6,
+      "id": 5,
       "title": "Personal site old",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Milan-Zivanov-Front-end-Developer_b1X3RRkHU.webp",
       "linkSrc": "https://milanzivanov.netlify.app",
@@ -221,7 +195,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "title": "Fake shop app",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Fake-shop-app_UMVkSPDAj.webp",
       "linkSrc": "https://fakeshop123.netlify.app/",
