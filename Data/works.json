@@ -80,6 +80,29 @@
   "works": [
     {
       "id": 1,
+      "title": "Airbnb clone",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Airbnb-clone_4R_5yklpz.webp",
+      "linkSrc": "https://airbnb-clone-seven-sepia.vercel.app",
+      "body": "This is a next.js project with typescript, tailwindcss, prisma, clerk & supabase. It is still in development. Booking system is not done yet. Also I'm using this project to practice and learn next.js and typescript.",
+      "projectTime": "Under development",
+      "author": "Milan",
+      "technologiesUsed": [
+        {
+          "svgIcon": "devicon-nextjs-plain"
+        },
+        {
+          "svgIcon": "devicon-typescript-plain"
+        },
+        {
+          "svgIcon": "devicon-supabase-plain"
+        },
+        {
+          "svgIcon": "devicon-tailwindcss-original"
+        }
+      ]
+    },
+    {
+      "id": 2,
       "title": "The wild Oasis",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/two_hFaaMZMR7.webp",
       "linkSrc": "https://wild-oasis-next-ts.vercel.app/",
@@ -102,7 +125,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Kulturni heroj",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Kulturni-heroj__flHR7GEEA.webp",
       "linkSrc": "https://kulturniheroj.org",
@@ -128,7 +151,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Comfy store app",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Comfy-store-TS_KWown2DNe.webp",
       "linkSrc": "https://comfy-store-mz.netlify.app/",
@@ -151,7 +174,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Movies app",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Movie-Interstellar_GsRqTP5av.webp",
       "linkSrc": "https://usepopcornclone.netlify.app/",
@@ -162,27 +185,6 @@
         {
           "svgIcon": "devicon-react-original"
         },
-        {
-          "svgIcon": "devicon-vitejs-plain"
-        },
-        {
-          "svgIcon": "devicon-html5-plain"
-        },
-        {
-          "svgIcon": "devicon-css3-plain"
-        }
-      ]
-    },
-
-    {
-      "id": 5,
-      "title": "Personal site old",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Milan-Zivanov-Front-end-Developer_b1X3RRkHU.webp",
-      "linkSrc": "https://milanzivanov.netlify.app",
-      "body": "This is my old personal website, which I created using HTML, CSS, JavaScript and Vite. I made it to practice my skills and to show my work and skills. Frontend and design is mede by me.",
-      "projectTime": "One month",
-      "author": "Milan",
-      "technologiesUsed": [
         {
           "svgIcon": "devicon-vitejs-plain"
         },
@@ -211,6 +213,29 @@
         },
         {
           "svgIcon": "devicon-html5-plain"
+        },
+        {
+          "svgIcon": "devicon-tailwindcss-original"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "New portfolio",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/work-progress_aNbHsDqnA.webp",
+      "linkSrc": "https://next-portfolio-ts-one.vercel.app/",
+      "body": "In this moment I'm working on a new portfolio. It gonna be made with next.js, typescript, prisma, supabase, clerk and tailwindcss. I gonna have access to my database by login with clerk and I will be able to add new projects and update them without any coding.",
+      "projectTime": "Work in progress",
+      "author": "Milan",
+      "technologiesUsed": [
+        {
+          "svgIcon": "devicon-nextjs-plain"
+        },
+        {
+          "svgIcon": "devicon-typescript-plain"
+        },
+        {
+          "svgIcon": "devicon-supabase-plain"
         },
         {
           "svgIcon": "devicon-tailwindcss-original"
