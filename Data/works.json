@@ -69,12 +69,40 @@
       "iconTitle": "Figma"
     },
     {
-      "iconClass": "devicon-astro-plain",
-      "iconTitle": "Astro"
+      "iconClass": "devicon-figma-plain",
+      "iconTitle": "Figma"
+    },
+    {
+      "iconClass": "devicon-bootstrap-plain",
+      "iconTitle": "Bootstrap"
+    },
+    {
+      "iconClass": "devicon-nodejs-plain",
+      "iconTitle": "Node.js"
+    },
+    {
+      "iconClass": "devicon-express-original",
+      "iconTitle": "Express.js"
+    },
+    {
+      "iconClass": "devicon-mongodb-plain",
+      "iconTitle": "MongoDB"
     },
     {
       "iconClass": "devicon-amazonwebservices-plain-wordmark",
       "iconTitle": "AWS"
+    },
+    {
+      "iconClass": "devicon-prisma-original",
+      "iconTitle": "Prisma"
+    },
+    {
+      "iconClass": "devicon-prisma-original",
+      "iconTitle": "Prisma"
+    },
+    {
+      "iconClass": "devicon-azuresqldatabase-plain",
+      "iconTitle": "SQL"
     }
   ],
   "works": [
@@ -83,7 +111,7 @@
       "title": "New portfolio",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Personal-Website_d2vpFN6oh.webp",
       "linkSrc": "https://next-portfolio-ts-one.vercel.app/",
-      "body": "In this moment I'm working on a new portfolio. It gonna be made with next.js, typescript, prisma, supabase, clerk, zod and tailwindcss. I gonna have access to my database by login with clerk and I will be able to add new projects and update them without any coding.",
+      "body": "In this moment I'm working on a new portfolio. It gonna be made with next.js, typescript, prisma, supabase, clerk, zod, shadcn and tailwindcss. I gonna have access to my database by login with clerk and I will be able to add new projects, update, delete and get them without any coding.",
       "projectTime": "Work in progress",
       "author": "Milan",
       "technologiesUsed": [
@@ -106,7 +134,7 @@
       "title": "Airbnb clone",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Airbnb-clone_4R_5yklpz.webp",
       "linkSrc": "https://airbnb-clone-seven-sepia.vercel.app",
-      "body": "This is a next.js project with typescript, tailwindcss, prisma, clerk & supabase. It is still in development. Booking system is not done yet. Also I'm using this project to practice and learn next.js and typescript.",
+      "body": "This is a next.js project with typescript, tailwindcss, prisma, clerk, zod, shadcn & supabase. It is still in development. Booking and payment system is not done yet. Also I'm using this project to practice and learn next.js and typescript.",
       "projectTime": "Under development",
       "author": "Milan",
       "technologiesUsed": [
@@ -129,8 +157,8 @@
       "title": "The wild Oasis",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/two_hFaaMZMR7.webp",
       "linkSrc": "https://wild-oasis-next-ts.vercel.app/",
-      "body": "This is a next.js project with typescript, tailwindcss & supabase. It is still in development. Also I'm using this project to practice and learn next.js and typescript.",
-      "projectTime": "In development",
+      "body": "This is a next.js project with typescript, tailwindcss, oAuth & supabase. It is still in development. Also I'm using this project to practice and learn next.js and typescript.",
+      "projectTime": "Finished project",
       "author": "Milan",
       "technologiesUsed": [
         {
@@ -152,7 +180,7 @@
       "title": "Kulturni heroj",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Kulturni-heroj__flHR7GEEA.webp",
       "linkSrc": "https://kulturniheroj.org",
-      "body": "Kulturni Heroj, or Cultural Hero, is a web blog portal dedicated to cultural topics in Serbia. It features a login system and a dashboard that allows administrators to manage content. ",
+      "body": "Kulturni Heroj, or Cultural Hero, is a web blog portal dedicated to cultural topics in Serbia. It features a login system and a dashboard that allows administrators to add, edit and delete content. Next feature is searching for content by tags.",
       "projectTime": "The project is still under development...",
       "author": "Milan",
       "technologiesUsed": [
