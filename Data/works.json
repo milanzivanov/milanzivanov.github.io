@@ -102,13 +102,16 @@
         },
         {
           "svgIcon": "devicon-tailwindcss-original"
+        },
+        {
+          "svgIcon": "devicon-prisma-original"
         }
       ]
     },
     {
       "id": 2,
       "title": "Airbnb clone",
-      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Airbnb-clone_4R_5yklpz.webp",
+      "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Airbnb-clone_3FLxhVYS_.webp",
       "linkSrc": "https://airbnb-clone-seven-sepia.vercel.app",
       "body": "This is a next.js project with typescript, tailwindcss, prisma, clerk, zod, shadcn & supabase. It is still in development. Booking and payment system is not done yet. Also I'm using this project to practice and learn next.js and typescript.",
       "projectTime": "Under development",
@@ -122,6 +125,9 @@
         },
         {
           "svgIcon": "devicon-supabase-plain"
+        },
+        {
+          "svgIcon": "devicon-prisma-original"
         },
         {
           "svgIcon": "devicon-tailwindcss-original"
