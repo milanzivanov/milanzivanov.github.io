@@ -84,7 +84,7 @@
   "works": [
     {
       "id": 1,
-      "title": "New portfolio app",
+      "title": "Next portfolio app",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Welcome-Milan-Portfolio__vGSlBID1.webp",
       "linkSrc": "https://next-portfolio-ts-one.vercel.app/",
       "body": "In this moment I'm working on a new portfolio. It gonna be made with next.js, typescript, prisma, supabase, clerk, zod, shadcn and tailwindcss. I gonna have access to my database by login with clerk and I will be able to add new projects, update, delete and get them without any coding.",
@@ -110,7 +110,7 @@
     },
     {
       "id": 2,
-      "title": "Airbnb clone",
+      "title": "Next Airbnb clone",
       "src": "https://ik.imagekit.io/milanz/milanzivanov_com/next-portfolio-projects/Airbnb-clone_3FLxhVYS_.webp",
       "linkSrc": "https://airbnb-clone-seven-sepia.vercel.app",
       "body": "This is a next.js project with typescript, tailwindcss, prisma, clerk, zod, shadcn & supabase. It is still in development. Booking and payment system is not done yet. Also I'm using this project to practice and learn next.js and typescript.",
